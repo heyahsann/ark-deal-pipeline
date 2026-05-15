@@ -1,0 +1,41 @@
+[
+  {
+    "id": "shiyan-hustle-fund",
+    "name": "Shiyan Koh",
+    "firm": "Hustle Fund",
+    "type": "Fund",
+    "focus": ["AI", "B2B SaaS", "Global"],
+    "typicalCheck": "$25K–$100K",
+    "status": "Active Co-investor",
+    "linkedin": "https://www.linkedin.com/in/shiyan/",
+    "dealsShared": ["chatblu", "helmai", "provenance"],
+    "notes": "GP at Hustle Fund. Connected via Angel Squad. Introduced Formas AI and On-Site for SuperAI Genesis track. Actively deploying across US and globally.",
+    "lastTouched": "2026-04-25"
+  },
+  {
+    "id": "sarah-geek-ventures",
+    "name": "Sarah Romanko",
+    "firm": "Geek Ventures",
+    "type": "Fund",
+    "focus": ["AI", "Deep Tech", "Pre-seed"],
+    "typicalCheck": "$100K–$250K",
+    "status": "Warm",
+    "linkedin": "",
+    "dealsShared": [],
+    "notes": "Partner at Geek Ventures. Well connected. Potential warm intro to Anton at Tetrad VC.",
+    "lastTouched": "2026-05"
+  },
+  {
+    "id": "fahim-ark",
+    "name": "Fahim",
+    "firm": "Ark Ascendant Capital",
+    "type": "Fund",
+    "focus": ["AI", "Pre-seed", "Seed", "SF"],
+    "typicalCheck": "$250K+",
+    "status": "Active Co-investor",
+    "linkedin": "",
+    "dealsShared": ["helmai", "provenance"],
+    "notes": "Analyst at Ark Ascendant Capital. Introduced Ahsan to the GP. Shared HelmAI and Provenance for review.",
+    "lastTouched": "2026-05"
+  }
+]

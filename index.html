@@ -791,7 +791,7 @@ function closeModalDirect() {
 
 document.addEventListener('keydown', e => { if (e.key === 'Escape') closeModalDirect(); });
 
-
+async function init() {
   try {
     const res = await fetch('./data/deals.json');
     deals = await res.json();

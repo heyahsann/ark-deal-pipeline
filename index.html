@@ -473,6 +473,156 @@
     .header-right { display: none; }
     .deals-grid { grid-template-columns: 1fr; }
   }
+
+  /* MODAL */
+  .modal-overlay {
+    position: fixed;
+    inset: 0;
+    background: rgba(26,24,20,0.6);
+    backdrop-filter: blur(4px);
+    z-index: 100;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 1.5rem;
+    animation: fadeInOverlay 0.2s ease;
+  }
+  @keyframes fadeInOverlay {
+    from { opacity: 0; }
+    to { opacity: 1; }
+  }
+  .modal {
+    background: var(--surface);
+    border-radius: 16px;
+    width: 100%;
+    max-width: 640px;
+    max-height: 90vh;
+    overflow-y: auto;
+    animation: slideUp 0.25s ease;
+    position: relative;
+  }
+  @keyframes slideUp {
+    from { opacity: 0; transform: translateY(16px); }
+    to { opacity: 1; transform: translateY(0); }
+  }
+  .modal-header {
+    padding: 1.5rem 1.5rem 1rem;
+    border-bottom: 1px solid var(--border);
+    position: sticky;
+    top: 0;
+    background: var(--surface);
+    z-index: 1;
+    display: flex;
+    align-items: flex-start;
+    justify-content: space-between;
+    gap: 12px;
+  }
+  .modal-company {
+    font-family: var(--font-display);
+    font-size: 1.6rem;
+    color: var(--text);
+    margin-bottom: 4px;
+  }
+  .modal-tagline {
+    font-size: 13px;
+    color: var(--muted);
+    line-height: 1.55;
+    max-width: 480px;
+  }
+  .modal-close {
+    width: 32px; height: 32px;
+    border-radius: 8px;
+    border: 1px solid var(--border2);
+    background: transparent;
+    cursor: pointer;
+    display: flex; align-items: center; justify-content: center;
+    color: var(--muted);
+    flex-shrink: 0;
+    font-size: 18px;
+    transition: all 0.15s;
+  }
+  .modal-close:hover { background: var(--bg); color: var(--text); }
+  .modal-body { padding: 1.25rem 1.5rem 1.5rem; display: flex; flex-direction: column; gap: 1rem; }
+  .modal-section { }
+  .modal-section-label {
+    font-family: var(--font-mono);
+    font-size: 9px;
+    text-transform: uppercase;
+    letter-spacing: 0.12em;
+    color: var(--muted);
+    margin-bottom: 8px;
+    font-weight: 500;
+  }
+  .modal-grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 8px;
+  }
+  .modal-field {
+    background: var(--bg);
+    border-radius: 8px;
+    padding: 9px 11px;
+  }
+  .modal-field-label {
+    font-family: var(--font-mono);
+    font-size: 9px;
+    text-transform: uppercase;
+    letter-spacing: 0.1em;
+    color: var(--muted);
+    margin-bottom: 3px;
+  }
+  .modal-field-val {
+    font-size: 13px;
+    color: var(--text);
+    line-height: 1.5;
+  }
+  .modal-field.full { grid-column: 1 / -1; }
+  .modal-desc {
+    font-size: 13.5px;
+    color: var(--muted);
+    line-height: 1.7;
+    background: var(--bg);
+    border-radius: 8px;
+    padding: 12px 14px;
+  }
+  .modal-next {
+    background: var(--text);
+    color: #F7F5F0;
+    border-radius: 8px;
+    padding: 10px 14px;
+    font-size: 13px;
+    line-height: 1.5;
+  }
+  .modal-next .modal-field-label { color: rgba(247,245,240,0.5); }
+  .modal-next .modal-field-val { color: #F7F5F0; }
+  .modal-questions { display: flex; flex-direction: column; gap: 5px; }
+  .modal-question {
+    font-size: 12.5px;
+    color: var(--muted);
+    padding: 6px 10px;
+    background: var(--amber-bg);
+    border-radius: 6px;
+    color: var(--amber);
+    font-family: var(--font-mono);
+  }
+  .modal-links { display: flex; gap: 8px; flex-wrap: wrap; }
+  .modal-link {
+    display: inline-flex;
+    align-items: center;
+    gap: 6px;
+    padding: 7px 14px;
+    border-radius: 8px;
+    border: 1px solid var(--border2);
+    font-size: 12px;
+    font-family: var(--font-mono);
+    color: var(--text);
+    text-decoration: none;
+    transition: all 0.15s;
+  }
+  .modal-link:hover { background: var(--bg); }
+  .deal-card { cursor: pointer; }
+  .deal-card:hover .company-name { text-decoration: underline; text-underline-offset: 3px; }
+  .kanban-card { cursor: pointer; }
 </style>
 </head>
 <body>
@@ -533,6 +683,20 @@
   </div>
 </footer>
 
+<!-- MODAL -->
+<div id="modalOverlay" class="modal-overlay" style="display:none" onclick="closeModal(event)">
+  <div class="modal" id="modalBox">
+    <div class="modal-header">
+      <div>
+        <div class="modal-company" id="mCompany"></div>
+        <div class="modal-tagline" id="mTagline"></div>
+      </div>
+      <button class="modal-close" onclick="closeModalDirect()">✕</button>
+    </div>
+    <div class="modal-body" id="modalBody"></div>
+  </div>
+</div>
+
 <script>
 let deals = [];
 let currentView = 'grid';
@@ -562,7 +726,72 @@ const CAT_CLASS = {
   'Collab Infrastructure': 'cat-collab'
 };
 
-async function init() {
+function openModal(id) {
+  const d = deals.find(x => x.id === id);
+  if (!d) return;
+  document.getElementById('mCompany').textContent = d.company;
+  document.getElementById('mTagline').textContent = d.tagline;
+
+  const founders = d.founders.map(f => `${f.name} · ${f.role}`).join('<br>');
+  const questions = d.openQuestions ? d.openQuestions.map(q => `<div class="modal-question">? ${q}</div>`).join('') : '';
+  const investors = d.investors ? d.investors.join(', ') : null;
+
+  document.getElementById('modalBody').innerHTML = `
+    ${d.description ? `<div class="modal-section"><p class="modal-desc">${d.description}</p></div>` : ''}
+
+    <div class="modal-section">
+      <div class="modal-section-label">Deal details</div>
+      <div class="modal-grid">
+        <div class="modal-field"><div class="modal-field-label">Stage</div><div class="modal-field-val">${d.stage}</div></div>
+        <div class="modal-field"><div class="modal-field-label">Status</div><div class="modal-field-val">${statusEl(d.status)}</div></div>
+        <div class="modal-field"><div class="modal-field-label">Conviction</div><div class="modal-field-val">${d.conviction}</div></div>
+        <div class="modal-field"><div class="modal-field-label">Location</div><div class="modal-field-val">${d.location || '—'}</div></div>
+        <div class="modal-field full"><div class="modal-field-label">Founder(s)</div><div class="modal-field-val">${founders}</div></div>
+        ${d.accelerator ? `<div class="modal-field"><div class="modal-field-label">Accelerator</div><div class="modal-field-val">${d.accelerator}</div></div>` : ''}
+        ${investors ? `<div class="modal-field"><div class="modal-field-label">Investors</div><div class="modal-field-val">${investors}</div></div>` : ''}
+        <div class="modal-field"><div class="modal-field-label">Source</div><div class="modal-field-val">${d.source}</div></div>
+        <div class="modal-field"><div class="modal-field-label">First contact</div><div class="modal-field-val">${d.firstContact || '—'}</div></div>
+      </div>
+    </div>
+
+    ${d.traction ? `<div class="modal-section"><div class="modal-section-label">Traction</div><div class="modal-desc">${d.traction}</div></div>` : ''}
+
+    ${d.nextAction || d.currentStatus ? `
+    <div class="modal-next">
+      ${d.currentStatus ? `<div class="modal-field-label">Current status</div><div class="modal-field-val" style="margin-bottom:${d.nextAction?'10px':'0'}">${d.currentStatus}</div>` : ''}
+      ${d.nextAction ? `<div class="modal-field-label">Next action</div><div class="modal-field-val">→ ${d.nextAction}</div>` : ''}
+    </div>` : ''}
+
+    ${d.watchouts ? `<div class="modal-section"><div class="modal-section-label">Watch outs</div><div class="modal-desc" style="background:var(--coral-bg);color:var(--coral)">${d.watchouts}</div></div>` : ''}
+
+    ${questions ? `<div class="modal-section"><div class="modal-section-label">Open questions</div><div class="modal-questions">${questions}</div></div>` : ''}
+
+    <div class="modal-section">
+      <div class="modal-section-label">Links</div>
+      <div class="modal-links">
+        ${d.website ? `<a href="${d.website}" target="_blank" class="modal-link">${globeIcon} Website</a>` : ''}
+        ${d.linkedin ? `<a href="${d.linkedin}" target="_blank" class="modal-link">${liIcon} LinkedIn</a>` : ''}
+        ${d.email ? `<a href="mailto:${d.email}" class="modal-link">${mailIcon} ${d.email}</a>` : ''}
+      </div>
+    </div>
+  `;
+
+  document.getElementById('modalOverlay').style.display = 'flex';
+  document.body.style.overflow = 'hidden';
+}
+
+function closeModal(e) {
+  if (e.target === document.getElementById('modalOverlay')) closeModalDirect();
+}
+
+function closeModalDirect() {
+  document.getElementById('modalOverlay').style.display = 'none';
+  document.body.style.overflow = '';
+}
+
+document.addEventListener('keydown', e => { if (e.key === 'Escape') closeModalDirect(); });
+
+
   try {
     const res = await fetch('./data/deals.json');
     deals = await res.json();
@@ -642,7 +871,7 @@ const mailIcon = `<svg viewBox="0 0 16 16" fill="none" stroke="currentColor" str
 function renderGrid(list) {
   if (!list.length) return emptyState();
   return `<div class="deals-grid">${list.map((d,i) => `
-    <div class="deal-card" style="animation-delay:${i*0.04}s">
+    <div class="deal-card" style="animation-delay:${i*0.04}s" onclick="openModal('${d.id}')" title="Click to view details">
       <div class="card-top">
         <div class="company-name">${d.company}</div>
         ${convDot(d.conviction)}
@@ -691,7 +920,7 @@ function renderKanban(list) {
       </div>
       <div class="kanban-cards">
         ${cards.length ? cards.map((d,i) => `
-          <div class="kanban-card" style="animation-delay:${i*0.05}s">
+          <div class="kanban-card" style="animation-delay:${i*0.05}s" onclick="openModal('${d.id}')" title="Click to view details">
             <div class="kanban-company">${d.company}</div>
             <div class="kanban-tagline">${d.tagline}</div>
             <div class="kanban-tags">${d.category.slice(0,2).map(tagEl).join('')}</div>
@@ -713,7 +942,7 @@ function renderTable(list) {
       <th>Company</th><th>Stage</th><th>Status</th><th>Conviction</th>
       <th>Category</th><th>Location</th><th>Founder(s)</th><th>Links</th>
     </tr></thead>
-    <tbody>${list.map(d => `<tr>
+    <tbody>${list.map(d => `<tr onclick="openModal('${d.id}')" style="cursor:pointer" title="Click to view details">
       <td class="td-company">${d.company}<br><span style="font-size:11px;color:var(--muted);font-family:var(--font-body);font-weight:400">${d.tagline.substring(0,48)}…</span></td>
       <td style="font-size:12px;font-family:var(--font-mono);color:var(--muted)">${d.stage}</td>
       <td>${statusEl(d.status)}</td>

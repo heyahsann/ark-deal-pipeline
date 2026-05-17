@@ -1,0 +1,373 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>VC & Fund Roles | Ark Pipeline</title>
+<style>
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+  body {
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+    background: #0a0a0f;
+    color: #e0e0e0;
+    min-height: 100vh;
+  }
+  .app {
+    display: flex;
+    min-height: 100vh;
+  }
+  .sidebar {
+    width: 240px;
+    background: #111118;
+    border-right: 1px solid #1e1e2a;
+    padding: 24px 16px;
+    flex-shrink: 0;
+  }
+  .sidebar h1 {
+    font-size: 18px;
+    font-weight: 700;
+    color: #fff;
+    margin-bottom: 4px;
+  }
+  .sidebar .subtitle {
+    font-size: 12px;
+    color: #666;
+    margin-bottom: 24px;
+  }
+  .nav-item {
+    display: block;
+    padding: 10px 12px;
+    border-radius: 8px;
+    color: #888;
+    text-decoration: none;
+    font-size: 14px;
+    margin-bottom: 4px;
+    transition: all 0.15s;
+  }
+  .nav-item:hover { background: #1a1a25; color: #fff; }
+  .nav-item.active { background: #1e3a5f; color: #5b9aff; font-weight: 600; }
+  .main {
+    flex: 1;
+    padding: 32px 40px;
+  }
+  .header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 28px;
+  }
+  .header h2 {
+    font-size: 22px;
+    font-weight: 600;
+    color: #fff;
+  }
+  .header .count {
+    background: #1e1e2a;
+    padding: 6px 14px;
+    border-radius: 20px;
+    font-size: 13px;
+    color: #aaa;
+  }
+  .job-card {
+    background: #14141e;
+    border: 1px solid #1e1e2a;
+    border-radius: 12px;
+    padding: 20px 24px;
+    margin-bottom: 12px;
+    transition: border-color 0.15s;
+  }
+  .job-card:hover { border-color: #2a2a3e; }
+  .job-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    margin-bottom: 12px;
+  }
+  .job-header h3 {
+    font-size: 16px;
+    font-weight: 600;
+    color: #fff;
+    flex: 1;
+    margin-right: 12px;
+  }
+  .badge {
+    font-size: 11px;
+    padding: 3px 10px;
+    border-radius: 12px;
+    font-weight: 600;
+    white-space: nowrap;
+  }
+  .badge-active { background: #0d2b1d; color: #4ade80; }
+  .badge-closed { background: #2b0d0d; color: #f87171; }
+  .job-meta {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 16px;
+    margin-bottom: 12px;
+    font-size: 13px;
+    color: #999;
+  }
+  .meta-item {}
+  .source-tag {
+    background: #1e1e2a;
+    padding: 2px 8px;
+    border-radius: 4px;
+    font-size: 11px;
+    color: #666;
+  }
+  .job-link {
+    display: inline-block;
+    font-size: 13px;
+    color: #5b9aff;
+    text-decoration: none;
+    font-weight: 500;
+  }
+  .job-link:hover { text-decoration: underline; }
+  .footer {
+    text-align: center;
+    padding: 24px;
+    color: #444;
+    font-size: 12px;
+  }
+</style>
+</head>
+<body>
+<div class="app">
+  <nav class="sidebar">
+    <h1>Ark Pipeline</h1>
+    <div class="subtitle">Dealflow Dashboard</div>
+    <a href="index.html" class="nav-item">Deals</a>
+    <a href="jobs.html" class="nav-item active">VC Jobs</a>
+  </nav>
+  <main class="main">
+    <div class="header">
+      <h2>VC & Fund Roles</h2>
+      <span class="count">17 open roles</span>
+    </div>
+    
+        <div class="job-card">
+            <div class="job-header">
+                <h3>Investment Banking Intern / Venture Capital Intern (Winter/Spring 2026)</h3>
+                <span class="badge badge-active">Active</span>
+            </div>
+            <div class="job-meta">
+                <span class="meta-item"><strong>First Analysis</strong></span>
+                <span class="meta-item">United States</span>
+                <span class="meta-item">Posted: Unknown</span>
+                <span class="meta-item source-tag">LinkedIn</span>
+            </div>
+            <a href="https://www.linkedin.com/jobs/view/investment-banking-intern-venture-capital-intern-winter-spring-2026-at-first-analysis-4300946821" target="_blank" class="job-link">View Listing &rarr;</a>
+        </div>
+        <div class="job-card">
+            <div class="job-header">
+                <h3>Investment Banking Intern / Venture Capital Intern (Summer 2026)</h3>
+                <span class="badge badge-active">Active</span>
+            </div>
+            <div class="job-meta">
+                <span class="meta-item"><strong>First Analysis</strong></span>
+                <span class="meta-item">United States</span>
+                <span class="meta-item">Posted: Unknown</span>
+                <span class="meta-item source-tag">LinkedIn</span>
+            </div>
+            <a href="https://www.linkedin.com/jobs/view/investment-banking-intern-venture-capital-intern-summer-2026-at-first-analysis-4339163132" target="_blank" class="job-link">View Listing &rarr;</a>
+        </div>
+        <div class="job-card">
+            <div class="job-header">
+                <h3>Venture Capital Operations Assistant</h3>
+                <span class="badge badge-active">Active</span>
+            </div>
+            <div class="job-meta">
+                <span class="meta-item"><strong>14Peaks Capital</strong></span>
+                <span class="meta-item">United States</span>
+                <span class="meta-item">Posted: Posted Apr 16, 2026</span>
+                <span class="meta-item source-tag">LinkedIn</span>
+            </div>
+            <a href="https://www.linkedin.com/jobs/view/4399852784/" target="_blank" class="job-link">View Listing &rarr;</a>
+        </div>
+        <div class="job-card">
+            <div class="job-header">
+                <h3>Venture Capital Associate</h3>
+                <span class="badge badge-active">Active</span>
+            </div>
+            <div class="job-meta">
+                <span class="meta-item"><strong>PCV</strong></span>
+                <span class="meta-item">United States</span>
+                <span class="meta-item">Posted: Unknown</span>
+                <span class="meta-item source-tag">LinkedIn</span>
+            </div>
+            <a href="https://www.linkedin.com/jobs/view/4385294944/" target="_blank" class="job-link">View Listing &rarr;</a>
+        </div>
+        <div class="job-card">
+            <div class="job-header">
+                <h3>VC Associate - Marketing & Operations</h3>
+                <span class="badge badge-active">Active</span>
+            </div>
+            <div class="job-meta">
+                <span class="meta-item"><strong>LvlUp Ventures</strong></span>
+                <span class="meta-item">Istanbul (listed, not US-based but included if globally relevant)</span>
+                <span class="meta-item">Posted: Unknown</span>
+                <span class="meta-item source-tag">LinkedIn</span>
+            </div>
+            <a href="https://www.linkedin.com/jobs/view/vc-associate-marketing-operations-at-lvlup-ventures-4410790312" target="_blank" class="job-link">View Listing &rarr;</a>
+        </div>
+        <div class="job-card">
+            <div class="job-header">
+                <h3>Venture Capital Analyst</h3>
+                <span class="badge badge-active">Active</span>
+            </div>
+            <div class="job-meta">
+                <span class="meta-item"><strong>TapTalent.ai</strong></span>
+                <span class="meta-item">San Francisco, CA</span>
+                <span class="meta-item">Posted: Unknown</span>
+                <span class="meta-item source-tag">LinkedIn</span>
+            </div>
+            <a href="https://www.linkedin.com/jobs/view/venture-capital-analyst-at-taptalent-ai-4217988977" target="_blank" class="job-link">View Listing &rarr;</a>
+        </div>
+        <div class="job-card">
+            <div class="job-header">
+                <h3>Venture Capital Sourcing Intern (Climate)</h3>
+                <span class="badge badge-active">Active</span>
+            </div>
+            <div class="job-meta">
+                <span class="meta-item"><strong>Anthos Capital</strong></span>
+                <span class="meta-item">Unknown</span>
+                <span class="meta-item">Posted: Unknown</span>
+                <span class="meta-item source-tag">LinkedIn</span>
+            </div>
+            <a href="https://www.linkedin.com/jobs/view/venture-capital-sourcing-intern-climate-at-anthos-capital-3520447185" target="_blank" class="job-link">View Listing &rarr;</a>
+        </div>
+        <div class="job-card">
+            <div class="job-header">
+                <h3>Venture Capital Content Specialist (Remote)</h3>
+                <span class="badge badge-active">Active</span>
+            </div>
+            <div class="job-meta">
+                <span class="meta-item"><strong>VC Lab</strong></span>
+                <span class="meta-item">Remote</span>
+                <span class="meta-item">Posted: Unknown</span>
+                <span class="meta-item source-tag">Web</span>
+            </div>
+            <a href="https://wellfound.com/jobs/1986565-venture-capital-content-specialist-remote" target="_blank" class="job-link">View Listing &rarr;</a>
+        </div>
+        <div class="job-card">
+            <div class="job-header">
+                <h3>Partner at Investment & Venture Building Firm</h3>
+                <span class="badge badge-active">Active</span>
+            </div>
+            <div class="job-meta">
+                <span class="meta-item"><strong>Vestun</strong></span>
+                <span class="meta-item">Remote</span>
+                <span class="meta-item">Posted: Unknown</span>
+                <span class="meta-item source-tag">Web</span>
+            </div>
+            <a href="https://wellfound.com/jobs/3047124-partner-at-investment-venture-building-firm" target="_blank" class="job-link">View Listing &rarr;</a>
+        </div>
+        <div class="job-card">
+            <div class="job-header">
+                <h3>Analyst, Health & Life Sciences</h3>
+                <span class="badge badge-active">Active</span>
+            </div>
+            <div class="job-meta">
+                <span class="meta-item"><strong>Innovestor</strong></span>
+                <span class="meta-item">Nordic/Baltic (remote or Europe)</span>
+                <span class="meta-item">Posted: Unknown</span>
+                <span class="meta-item source-tag">Web</span>
+            </div>
+            <a href="https://innovestorgroup.com/we-are-hiring-an-analyst-health-and-life-sciences/" target="_blank" class="job-link">View Listing &rarr;</a>
+        </div>
+        <div class="job-card">
+            <div class="job-header">
+                <h3>VC Analyst</h3>
+                <span class="badge badge-active">Active</span>
+            </div>
+            <div class="job-meta">
+                <span class="meta-item"><strong>Left Lane Capital</strong></span>
+                <span class="meta-item">New York City, NY</span>
+                <span class="meta-item">Posted: Unknown</span>
+                <span class="meta-item source-tag">Web</span>
+            </div>
+            <a href="https://johngannonblog.com/job/vc-analyst-left-lane-capital-in-new-york-city-ny-3/" target="_blank" class="job-link">View Listing &rarr;</a>
+        </div>
+        <div class="job-card">
+            <div class="job-header">
+                <h3>Analyst/Associate</h3>
+                <span class="badge badge-active">Active</span>
+            </div>
+            <div class="job-meta">
+                <span class="meta-item"><strong>Runa Capital</strong></span>
+                <span class="meta-item">San Francisco/Palo Alto, CA (Hybrid)</span>
+                <span class="meta-item">Posted: Unknown</span>
+                <span class="meta-item source-tag">Web</span>
+            </div>
+            <a href="https://runacap.com/analyst-associate-san-francisco/" target="_blank" class="job-link">View Listing &rarr;</a>
+        </div>
+        <div class="job-card">
+            <div class="job-header">
+                <h3>Venture Capital Associate / Senior Associate</h3>
+                <span class="badge badge-active">Active</span>
+            </div>
+            <div class="job-meta">
+                <span class="meta-item"><strong>Sovereign's Capital</strong></span>
+                <span class="meta-item">Unknown</span>
+                <span class="meta-item">Posted: Unknown</span>
+                <span class="meta-item source-tag">Web</span>
+            </div>
+            <a href="https://sovereignscapital.com/careers/venture-capital-associate-senior-associate" target="_blank" class="job-link">View Listing &rarr;</a>
+        </div>
+        <div class="job-card">
+            <div class="job-header">
+                <h3>Analyst</h3>
+                <span class="badge badge-active">Active</span>
+            </div>
+            <div class="job-meta">
+                <span class="meta-item"><strong>Eniac</strong></span>
+                <span class="meta-item">Unknown</span>
+                <span class="meta-item">Posted: Unknown</span>
+                <span class="meta-item source-tag">Web</span>
+            </div>
+            <a href="https://eniacvc.medium.com/eniac-is-hiring-an-analyst-6e198c2fff69" target="_blank" class="job-link">View Listing &rarr;</a>
+        </div>
+        <div class="job-card">
+            <div class="job-header">
+                <h3>Senior Principal, Corporate Venture Capital</h3>
+                <span class="badge badge-active">Active</span>
+            </div>
+            <div class="job-meta">
+                <span class="meta-item"><strong>UKG</strong></span>
+                <span class="meta-item">San Francisco, CA</span>
+                <span class="meta-item">Posted: Unknown</span>
+                <span class="meta-item source-tag">LinkedIn</span>
+            </div>
+            <a href="https://www.linkedin.com/jobs/principal-venture-capital-jobs" target="_blank" class="job-link">View Listing &rarr;</a>
+        </div>
+        <div class="job-card">
+            <div class="job-header">
+                <h3>VC Associate or Senior Associate</h3>
+                <span class="badge badge-active">Active</span>
+            </div>
+            <div class="job-meta">
+                <span class="meta-item"><strong>Strike Capital</strong></span>
+                <span class="meta-item">San Francisco, CA</span>
+                <span class="meta-item">Posted: Posted 1 day ago</span>
+                <span class="meta-item source-tag">LinkedIn</span>
+            </div>
+            <a href="https://www.linkedin.com/jobs/investments-and-banking-jobs?position=1&pageNum=0" target="_blank" class="job-link">View Listing &rarr;</a>
+        </div>
+        <div class="job-card">
+            <div class="job-header">
+                <h3>Investment Analyst</h3>
+                <span class="badge badge-active">Active</span>
+            </div>
+            <div class="job-meta">
+                <span class="meta-item"><strong>Unspecified VC (post by Yousuf Khan)</strong></span>
+                <span class="meta-item">Unknown</span>
+                <span class="meta-item">Posted: Unknown</span>
+                <span class="meta-item source-tag">LinkedIn</span>
+            </div>
+            <a href="https://www.linkedin.com/posts/yousufakhan_werehiring-investment-analyst-activity-7289874124443676672-PFpx" target="_blank" class="job-link">View Listing &rarr;</a>
+        </div>
+  </main>
+</div>
+<div class="footer">Updated 2026-05-17 15:21 UTC &middot; ai-deal-sourcer</div>
+</body>
+</html>

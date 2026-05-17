@@ -148,5 +148,129 @@
       "Google angels",
       "AWS angels"
     ]
-    }
+  },
+  {
+    "id": "moda",
+    "company": "Moda",
+    "tagline": "We raised $7.5M to kill AI slop. Introducing Moda: the world's first design agent with taste. RT+ comment “Moda” and we’",
+    "description": "Moda is an AI-native design platform that provides every professional with a brand-aligned design agent. It claims to be the world's first 'design agent with taste,' enabling humans and AI agents to collaborate on a Figma/Canva-style canvas. The company aims to eliminate 'AI slop' by offering tasteful, brand-consistent designs. Company Overview: Moda is an AI-native design platform that provides every professional with a brand-aligned design agent. It claims to be the world's first 'design agent with taste,' enabling humans and AI agents to collaborate on a Figma/Canva-style canvas. The company aims to eliminate 'AI slop' by offering tasteful, brand-consistent designs. Team Background: Founded by Michael Goldstein, a 14-year-old (as of 2026) serial AI entrepreneur from Toronto, Canada. ...",
+    "stage": "Pre-seed",
+    "status": "Tracking",
+    "conviction": "High",
+    "category": [
+      "AI Agents"
+    ],
+    "location": "",
+    "founders": [
+      {
+        "name": "Michael Goldstein",
+        "role": "Founder & CEO"
+      }
+    ],
+    "website": "https://www.youtube.com/watch?v=rQ3luEIcKes",
+    "linkedin": "",
+    "email": "",
+    "traction": "",
+    "source": "ai-deal-sourcer pipeline (Michael Goldstein/Moda, score: 9/10)",
+    "firstContact": "2026-05",
+    "nextAction": "Initial outreach drafted via pipeline",
+    "openQuestions": [
+      "Stage?",
+      "Location?",
+      "Raising details?"
+    ]
+  },
+  {
+    "id": "unknown",
+    "company": "Unknown",
+    "tagline": "Excited to announce that we got backed by @fdotinc Last month ... We had one idea though \"What if you could talk to an A",
+    "description": "Unknown startup founded by David Im, building an AI avatar platform that enables interactive conversations with historical figures. The initial proof-of-concept was a conversational avatar of Steve Jobs, demonstrating the potential for realistic AI-driven interactions with iconic personas. Company Overview: Unknown startup founded by David Im, building an AI avatar platform that enables interactive conversations with historical figures. The initial proof-of-concept was a conversational avatar of Steve Jobs, demonstrating the potential for realistic AI-driven interactions with iconic personas. Team Background: Founder David Im appears to be a solo founder with demonstrated technical skill in building AI avatars and shipping products rapidly (2 days). Background and prior experience are n...",
+    "stage": "Pre-seed",
+    "status": "Tracking",
+    "conviction": "Medium",
+    "category": [
+      "AI Agents"
+    ],
+    "location": "",
+    "founders": [
+      {
+        "name": "David Im",
+        "role": "Founder & CEO"
+      }
+    ],
+    "website": "",
+    "linkedin": "",
+    "email": "",
+    "traction": "",
+    "source": "ai-deal-sourcer pipeline (David Im/Unknown, score: 8/10)",
+    "firstContact": "2026-05",
+    "nextAction": "Initial outreach drafted via pipeline",
+    "openQuestions": [
+      "Stage?",
+      "Location?",
+      "Raising details?"
+    ]
+  },
+  {
+    "id": "kodhau",
+    "company": "KodHau",
+    "tagline": "just got into Founders, Inc. @fdotinc Canopy! building KodHau—giving your AI agent WHY your senior dev wrote your code t",
+    "description": "KodHau is an AI-native tool that serves as a governance layer for AI agents, injecting tribal knowledge from GitHub PR history—such as architecture decisions, code review comments, and rejected approaches—into AI coding workflows. It uses an MCP server to provide context like constraints and past decisions directly to AI agents, helping them understand why senior engineers wrote code in a certain way. This addresses the problem of AI agents missing undocumented team knowledge. Company Overview: KodHau is an AI-native tool that serves as a governance layer for AI agents, injecting tribal knowledge from GitHub PR history—such as architecture decisions, code review comments, and rejected approaches—into AI coding workflows. It uses an MCP server to provide context like constraints and past...",
+    "stage": "Pre-seed",
+    "status": "Tracking",
+    "conviction": "Medium",
+    "category": [
+      "AI Agents"
+    ],
+    "location": "",
+    "founders": [
+      {
+        "name": "Zhas",
+        "role": "Founder & CEO"
+      }
+    ],
+    "website": "https://poweredbyai.app/project/kodhau",
+    "linkedin": "https://www.linkedin.com/posts/zhasulan-serikbek_your-ai-agent-doesnt-know-what-your-senior-activity-7458554873903493122-AONl",
+    "email": "",
+    "traction": "",
+    "source": "ai-deal-sourcer pipeline (Zhas/KodHau, score: 7/10)",
+    "firstContact": "2026-05",
+    "nextAction": "Initial outreach drafted via pipeline",
+    "openQuestions": [
+      "Stage?",
+      "Location?",
+      "Raising details?"
+    ]
+  },
+  {
+    "id": "agentos",
+    "company": "AgentOS",
+    "tagline": "Finally got into Canopy Online @fdotinc The next 5 weeks will be a massive learning experience building my product Agent",
+    "description": "AgentOS is an AI-native platform that functions as an operating system for autonomous AI agents. It enables orchestration, execution, and administration of AI agents, with features like cognitive memory, runtime tool generation, guardrails, and support for 21 LLM providers. The product is designed to empower users to build and deploy AI agents efficiently, targeting developers and AI startups. Company Overview: AgentOS is an AI-native platform that functions as an operating system for autonomous AI agents. It enables orchestration, execution, and administration of AI agents, with features like cognitive memory, runtime tool generation, guardrails, and support for 21 LLM providers. The product is designed to empower users to build and deploy AI agents efficiently, targeting developers an...",
+    "stage": "Pre-seed",
+    "status": "Tracking",
+    "conviction": "Medium",
+    "category": [
+      "AI Agents"
+    ],
+    "location": "",
+    "founders": [
+      {
+        "name": "Amitabh Das",
+        "role": "Founder & CEO"
+      }
+    ],
+    "website": "https://github.com/jcontini/AgentOS",
+    "linkedin": "https://www.linkedin.com/in/das-amitabh",
+    "email": "",
+    "traction": "",
+    "source": "ai-deal-sourcer pipeline (Amitabh Das/AgentOS, score: 7/10)",
+    "firstContact": "2026-05",
+    "nextAction": "Initial outreach drafted via pipeline",
+    "openQuestions": [
+      "Stage?",
+      "Location?",
+      "Raising details?"
+    ]
+  }
 ]

@@ -22,50 +22,13 @@
     "website": "https://helm-ai.io",
     "linkedin": "https://www.linkedin.com/company/helmai",
     "email": "marie@helm-ai.io",
-    "traction": "6 design partners · 240+ accounts monitored · 11 churn signals caught in private beta",
     "source": "ben lang next play community",
     "firstContact": "2026-04",
     "nextAction": "Meeting over a coffee in SF",
-    "openQuestions": [
-      "Raising? Round size?",
-      "Rest of team?",
-      "Deck available?"
-    ],
-    "accelerator": "Antler"
-  },
-  {
-    "id": "provenance",
-    "company": "Provenance",
-    "tagline": "System of intelligence for engineering ops — prevents incidents before they hit production",
-    "description": "Connects GitHub PRs, Jira, support tickets, and post-mortems to flag regression risk before code ships. Alerts on-call and support after high-risk merges. No AI hallucinations — purely pattern-based on historical incident data. Institutional memory for engineering orgs.",
-    "stage": "Pre-seed",
-    "status": "Tracking",
-    "conviction": "High",
-    "category": [
-      "AI Agents",
-      "Dev Tools",
-      "Engineering Ops"
-    ],
-    "location": "San Francisco, CA",
-    "founders": [
-      {
-        "name": "Clayton",
-        "role": "Founder"
-      }
-    ],
-    "website": "https://provenancehq.com",
-    "linkedin": "https://www.linkedin.com/company/provenancehq",
-    "email": "clayton@provenancehq.com",
-    "traction": "Very early — pre-launch",
-    "source": "Twitter",
-    "firstContact": "2026-04",
-    "currentStatus": "DMed him for an intro call or meet with Fahim if he is in SF",
-    "nextAction": "Intro ark and screening over a call",
-    "openQuestions": [
-      "Raising?",
-      "Design partners?",
-      "Full team background?"
-    ]
+    "accelerator": "Antler",
+    "generalInfo": {},
+    "metrics": {},
+    "whyInvest": ""
   },
   {
     "id": "kanwas",
@@ -91,16 +54,164 @@
     "website": "https://kanwas.ai",
     "linkedin": "https://www.linkedin.com/in/johancutych/",
     "email": "",
-    "traction": "#1 Product Hunt daily · Veed, Wix, Grammarly, TheFork as customers · customer closed €4.6M pre-seed using Kanwas",
     "source": "Web research",
     "firstContact": "2026-05",
     "nextAction": "DM Johan on LinkedIn · confirm HQ · ask if raising",
-    "openQuestions": [
-      "Location?",
-      "Raising?",
-      "Revenue model?",
-      "Round size?"
-    ]
+    "generalInfo": {},
+    "metrics": {},
+    "whyInvest": ""
+  },
+  {
+    "id": "moda",
+    "company": "Moda",
+    "tagline": "AI design agent with taste — $7.5M seed to kill AI slop. Launched March 2026.",
+    "description": "Moda is an AI-native design platform that provides every professional with a brand-aligned design agent. The world's first 'design agent with taste,' enabling humans and AI agents to collaborate on a Figma/Canva-style canvas. Eliminates generic AI output by generating fully editable, brand-consistent designs for presentations, marketing materials, and reports. Raised $7.5M seed led by General Catalyst.",
+    "stage": "Seed",
+    "status": "Tracking",
+    "conviction": "High",
+    "category": [
+      "AI Agents",
+      "Design"
+    ],
+    "location": "New York, NY (SoHo)",
+    "founders": [
+      {
+        "name": "Anvisha Pai",
+        "role": "Co-founder & CEO"
+      },
+      {
+        "name": "Ravi Parikh",
+        "role": "Co-founder & COO"
+      },
+      {
+        "name": "John Holliman",
+        "role": "Co-founder & CTO"
+      }
+    ],
+    "website": "https://moda.app",
+    "linkedin": "https://www.linkedin.com/in/anvisha",
+    "email": "",
+    "source": "ai-deal-sourcer pipeline (verified: Anvisha Pai/Moda)",
+    "firstContact": "2026-05",
+    "nextAction": "Initial outreach drafted via pipeline",
+    "generalInfo": {},
+    "metrics": {},
+    "whyInvest": ""
+  },
+  {
+    "id": "nozomio-yc-s25",
+    "company": "nozomio (YC S25)",
+    "tagline": "18, founder @ nozomio (yc s25), research @ stanford, forbes 30u30, high school junior dropout.Haz is the guy. Star of Fd",
+    "description": "Nozomio (YC S25) is a product and research lab solving the AI context problem, beginning with Nia—a search and index API that provides agents with real-time context from docs, research papers, datasets, and codebases. It is scalable, 5x cheaper, and reliable, ensuring AI agents never rely on stale data",
+    "stage": "Pre-seed",
+    "status": "Tracking",
+    "conviction": "High",
+    "category": [
+      "AI Agents"
+    ],
+    "location": "",
+    "founders": [
+      {
+        "name": "Arlan Rakhmetzhanov",
+        "role": "Founder & CEO"
+      }
+    ],
+    "website": "https://blog.amy.vc/nozomio-6-2m-seed-funding-round/",
+    "linkedin": "https://www.linkedin.com/posts/guillermoflor_almost-6-of-a-100-startups-of-y-combinator-activity-7370105714897416192-5kO9",
+    "email": "",
+    "source": "ai-deal-sourcer pipeline (Arlan Rakhmetzhanov/nozomio (YC S25), score: 9/10)",
+    "firstContact": "2026-05",
+    "nextAction": "Initial outreach drafted via pipeline",
+    "generalInfo": {},
+    "metrics": {},
+    "whyInvest": ""
+  },
+  {
+    "id": "provenance",
+    "company": "Provenance",
+    "tagline": "System of intelligence for engineering ops — prevents incidents before they hit production",
+    "description": "Connects GitHub PRs, Jira, support tickets, and post-mortems to flag regression risk before code ships. Alerts on-call and support after high-risk merges. No AI hallucinations — purely pattern-based on historical incident data. Institutional memory for engineering orgs.",
+    "stage": "Pre-seed",
+    "status": "Tracking",
+    "conviction": "High",
+    "category": [
+      "AI Agents",
+      "Dev Tools",
+      "Engineering Ops"
+    ],
+    "location": "San Francisco, CA",
+    "founders": [
+      {
+        "name": "Clayton",
+        "role": "Founder"
+      }
+    ],
+    "website": "https://provenancehq.com",
+    "linkedin": "https://www.linkedin.com/company/provenancehq",
+    "email": "clayton@provenancehq.com",
+    "source": "Twitter",
+    "firstContact": "2026-04",
+    "currentStatus": "DMed him for an intro call or meet with Fahim if he is in SF",
+    "nextAction": "Intro ark and screening over a call",
+    "generalInfo": {},
+    "metrics": {},
+    "whyInvest": ""
+  },
+  {
+    "id": "agentos",
+    "company": "AgentOS",
+    "tagline": "Finally got into Canopy Online @fdotinc The next 5 weeks will be a massive learning experience building my product Agent",
+    "description": "AgentOS is an AI-native platform that functions as an operating system for autonomous AI agents. It enables orchestration, execution, and administration of AI agents, with features like cognitive memory, runtime tool generation, guardrails, and support for 21 LLM providers. The product is designed to empower users to build and deploy AI agents efficiently, targeting developers and AI startups",
+    "stage": "Pre-seed",
+    "status": "Tracking",
+    "conviction": "Medium",
+    "category": [
+      "AI Agents"
+    ],
+    "location": "",
+    "founders": [
+      {
+        "name": "Amitabh Das",
+        "role": "Founder & CEO"
+      }
+    ],
+    "website": "https://github.com/jcontini/AgentOS",
+    "linkedin": "https://www.linkedin.com/in/das-amitabh",
+    "email": "",
+    "source": "ai-deal-sourcer pipeline (Amitabh Das/AgentOS, score: 7/10)",
+    "firstContact": "2026-05",
+    "nextAction": "Initial outreach drafted via pipeline",
+    "generalInfo": {},
+    "metrics": {},
+    "whyInvest": ""
+  },
+  {
+    "id": "caseflood-ai-yc-w25",
+    "company": "Caseflood.ai (YC W25)",
+    "tagline": "Caseflood.ai (YC W25), led by CEO Ethan Hilton, a San Francisco...Caseflood.ai raises $3.2M from Y Combinator and others",
+    "description": "Caseflood.ai is an AI-native platform that acts as an AI receptionist specifically designed for law firms, automating client intake, scheduling, and initial consultations to streamline legal workflows",
+    "stage": "Pre-seed",
+    "status": "Tracking",
+    "conviction": "Medium",
+    "category": [
+      "AI Agents"
+    ],
+    "location": "",
+    "founders": [
+      {
+        "name": "Ethan Hilton",
+        "role": "Founder & CEO"
+      }
+    ],
+    "website": "https://telora.com/learn",
+    "linkedin": "https://www.linkedin.com/posts/colaeb_casefloodai-yc-w25-led-by-ceo-ethan-hilton-activity-7356385663660748800-9fxw",
+    "email": "",
+    "source": "ai-deal-sourcer pipeline (Ethan Hilton/Caseflood.ai (YC W25), score: 8/10)",
+    "firstContact": "2026-05",
+    "nextAction": "Initial outreach drafted via pipeline",
+    "generalInfo": {},
+    "metrics": {},
+    "whyInvest": ""
   },
   {
     "id": "chatblu",
@@ -133,160 +244,19 @@
     "website": "https://chatblu-ai.com",
     "linkedin": "",
     "email": "",
-    "traction": "$500K pre-seed closed Aug 2025 · Matador VC + Google/AWS angels · launched Sept 2025",
     "source": "Pitch deck via shared link",
     "firstContact": "2026-05",
     "nextAction": "Review full seed deck · confirm post-launch traction",
-    "openQuestions": [
-      "Post-launch customers?",
-      "ARR?",
-      "Seed round size & terms?"
-    ],
     "accelerator": "Genoa Entrepreneurship School",
-    "investors": [
-      "Matador VC",
-      "Google angels",
-      "AWS angels"
-    ]
-  },
-  {
-    "id": "moda",
-    "company": "Moda",
-    "tagline": "AI design agent with taste — $7.5M seed to kill AI slop. Launched March 2026.",
-    "description": "Moda is an AI-native design platform that provides every professional with a brand-aligned design agent. The world's first 'design agent with taste,' enabling humans and AI agents to collaborate on a Figma/Canva-style canvas. Eliminates generic AI output by generating fully editable, brand-consistent designs for presentations, marketing materials, and reports. Raised $7.5M seed led by General Catalyst.",
-    "stage": "Seed",
-    "status": "Tracking",
-    "conviction": "High",
-    "category": [
-      "AI Agents",
-      "Design"
-    ],
-    "location": "New York, NY (SoHo)",
-    "founders": [
-      {
-        "name": "Anvisha Pai",
-        "role": "Co-founder & CEO"
-      },
-      {
-        "name": "Ravi Parikh",
-        "role": "Co-founder & COO"
-      },
-      {
-        "name": "John Holliman",
-        "role": "Co-founder & CTO"
-      }
-    ],
-    "website": "https://moda.app",
-    "linkedin": "https://www.linkedin.com/in/anvisha",
-    "email": "",
-    "traction": "#1 in Design Arena for Slides. $7.5M seed from General Catalyst.",
-    "source": "ai-deal-sourcer pipeline (verified: Anvisha Pai/Moda)",
-    "firstContact": "2026-05",
-    "nextAction": "Initial outreach drafted via pipeline",
-    "openQuestions": [
-      "Stage?",
-      "Location?",
-      "Raising details?"
-    ]
-  },
-  {
-    "id": "unknown",
-    "company": "Unknown",
-    "tagline": "Excited to announce that we got backed by @fdotinc Last month ... We had one idea though \"What if you could talk to an A",
-    "description": "Unknown startup founded by David Im, building an AI avatar platform that enables interactive conversations with historical figures. The initial proof-of-concept was a conversational avatar of Steve Jobs, demonstrating the potential for realistic AI-driven interactions with iconic personas. Company Overview: Unknown startup founded by David Im, building an AI avatar platform that enables interactive conversations with historical figures. The initial proof-of-concept was a conversational avatar of Steve Jobs, demonstrating the potential for realistic AI-driven interactions with iconic personas. Team Background: Founder David Im appears to be a solo founder with demonstrated technical skill in building AI avatars and shipping products rapidly (2 days). Background and prior experience are n...",
-    "stage": "Pre-seed",
-    "status": "Tracking",
-    "conviction": "Medium",
-    "category": [
-      "AI Agents"
-    ],
-    "location": "",
-    "founders": [
-      {
-        "name": "David Im",
-        "role": "Founder & CEO"
-      }
-    ],
-    "website": "",
-    "linkedin": "",
-    "email": "",
-    "traction": "",
-    "source": "ai-deal-sourcer pipeline (David Im/Unknown, score: 8/10)",
-    "firstContact": "2026-05",
-    "nextAction": "Initial outreach drafted via pipeline",
-    "openQuestions": [
-      "Stage?",
-      "Location?",
-      "Raising details?"
-    ]
-  },
-  {
-    "id": "kodhau",
-    "company": "KodHau",
-    "tagline": "just got into Founders, Inc. @fdotinc Canopy! building KodHau—giving your AI agent WHY your senior dev wrote your code t",
-    "description": "KodHau is an AI-native tool that serves as a governance layer for AI agents, injecting tribal knowledge from GitHub PR history—such as architecture decisions, code review comments, and rejected approaches—into AI coding workflows. It uses an MCP server to provide context like constraints and past decisions directly to AI agents, helping them understand why senior engineers wrote code in a certain way. This addresses the problem of AI agents missing undocumented team knowledge. Company Overview: KodHau is an AI-native tool that serves as a governance layer for AI agents, injecting tribal knowledge from GitHub PR history—such as architecture decisions, code review comments, and rejected approaches—into AI coding workflows. It uses an MCP server to provide context like constraints and past...",
-    "stage": "Pre-seed",
-    "status": "Tracking",
-    "conviction": "Medium",
-    "category": [
-      "AI Agents"
-    ],
-    "location": "",
-    "founders": [
-      {
-        "name": "Zhas",
-        "role": "Founder & CEO"
-      }
-    ],
-    "website": "https://poweredbyai.app/project/kodhau",
-    "linkedin": "https://www.linkedin.com/posts/zhasulan-serikbek_your-ai-agent-doesnt-know-what-your-senior-activity-7458554873903493122-AONl",
-    "email": "",
-    "traction": "",
-    "source": "ai-deal-sourcer pipeline (Zhas/KodHau, score: 7/10)",
-    "firstContact": "2026-05",
-    "nextAction": "Initial outreach drafted via pipeline",
-    "openQuestions": [
-      "Stage?",
-      "Location?",
-      "Raising details?"
-    ]
-  },
-  {
-    "id": "agentos",
-    "company": "AgentOS",
-    "tagline": "Finally got into Canopy Online @fdotinc The next 5 weeks will be a massive learning experience building my product Agent",
-    "description": "AgentOS is an AI-native platform that functions as an operating system for autonomous AI agents. It enables orchestration, execution, and administration of AI agents, with features like cognitive memory, runtime tool generation, guardrails, and support for 21 LLM providers. The product is designed to empower users to build and deploy AI agents efficiently, targeting developers and AI startups. Company Overview: AgentOS is an AI-native platform that functions as an operating system for autonomous AI agents. It enables orchestration, execution, and administration of AI agents, with features like cognitive memory, runtime tool generation, guardrails, and support for 21 LLM providers. The product is designed to empower users to build and deploy AI agents efficiently, targeting developers an...",
-    "stage": "Pre-seed",
-    "status": "Tracking",
-    "conviction": "Medium",
-    "category": [
-      "AI Agents"
-    ],
-    "location": "",
-    "founders": [
-      {
-        "name": "Amitabh Das",
-        "role": "Founder & CEO"
-      }
-    ],
-    "website": "https://github.com/jcontini/AgentOS",
-    "linkedin": "https://www.linkedin.com/in/das-amitabh",
-    "email": "",
-    "traction": "",
-    "source": "ai-deal-sourcer pipeline (Amitabh Das/AgentOS, score: 7/10)",
-    "firstContact": "2026-05",
-    "nextAction": "Initial outreach drafted via pipeline",
-    "openQuestions": [
-      "Stage?",
-      "Location?",
-      "Raising details?"
-    ]
+    "generalInfo": {},
+    "metrics": {},
+    "whyInvest": ""
   },
   {
     "id": "clayzo",
     "company": "Clayzo",
     "tagline": "building @useclayzo • @fdotinc , @AforeVC",
-    "description": "Clayzo is an AI-native development platform that enables product teams to prototype, review, and collaborate on features directly on their existing codebase. It uses AI to abstract developer context, allowing non-technical team members to spin up the product in the browser with two clicks, prototype ideas, record walkthroughs, and leave contextual feedback tied to the real codebase—turning what was spread across screenshots, Looms, and Slack into actionable tasks for engineers and coding agents. Company Overview: Clayzo is an AI-native development platform that enables product teams to prototype, review, and collaborate on features directly on their existing codebase. It uses AI to abstract developer context, allowing non-technical team members to spin up the product in the browser with...",
+    "description": "Clayzo is an AI-native development platform that enables product teams to prototype, review, and collaborate on features directly on their existing codebase. It uses AI to abstract developer context, allowing non-technical team members to spin up the product in the browser with two clicks, prototype ideas, record walkthroughs, and leave contextual feedback tied to the real codebase—turning what was spread across screenshots, Looms, and Slack into actionable tasks for engineers and coding agents",
     "stage": "Pre-seed",
     "status": "Tracking",
     "conviction": "Medium",
@@ -303,52 +273,18 @@
     "website": "https://www.producthunt.com/products/clayzo",
     "linkedin": "https://www.linkedin.com/posts/jananiprasad8_introducing-clayzo-the-best-way-to-make-activity-7460397733003055105-gnYr",
     "email": "",
-    "traction": "",
     "source": "ai-deal-sourcer pipeline (Janani Prasad/Clayzo, score: 7/10)",
     "firstContact": "2026-05",
     "nextAction": "Initial outreach drafted via pipeline",
-    "openQuestions": [
-      "Stage?",
-      "Location?",
-      "Raising details?"
-    ]
+    "generalInfo": {},
+    "metrics": {},
+    "whyInvest": ""
   },
   {
-    "id": "nozomio-yc-s25",
-    "company": "nozomio (YC S25)",
-    "tagline": "18, founder @ nozomio (yc s25), research @ stanford, forbes 30u30, high school junior dropout.Haz is the guy. Star of Fd",
-    "description": "Nozomio (YC S25) is a product and research lab solving the AI context problem, beginning with Nia—a search and index API that provides agents with real-time context from docs, research papers, datasets, and codebases. It is scalable, 5x cheaper, and reliable, ensuring AI agents never rely on stale data. Company Overview: Nozomio (YC S25) is a product and research lab solving the AI context problem, beginning with Nia—a search and index API that provides agents with real-time context from docs, research papers, datasets, and codebases. It is scalable, 5x cheaper, and reliable, ensuring AI agents never rely on stale data. Team Background: Founded by Arlan Rakhmetzhanov, a high school dropout from Kazakhstan who attended Y Combinator at 18. He previously conducted research at Stanford, bui...",
-    "stage": "Pre-seed",
-    "status": "Tracking",
-    "conviction": "High",
-    "category": [
-      "AI Agents"
-    ],
-    "location": "",
-    "founders": [
-      {
-        "name": "Arlan Rakhmetzhanov",
-        "role": "Founder & CEO"
-      }
-    ],
-    "website": "https://blog.amy.vc/nozomio-6-2m-seed-funding-round/",
-    "linkedin": "https://www.linkedin.com/posts/guillermoflor_almost-6-of-a-100-startups-of-y-combinator-activity-7370105714897416192-5kO9",
-    "email": "",
-    "traction": "",
-    "source": "ai-deal-sourcer pipeline (Arlan Rakhmetzhanov/nozomio (YC S25), score: 9/10)",
-    "firstContact": "2026-05",
-    "nextAction": "Initial outreach drafted via pipeline",
-    "openQuestions": [
-      "Stage?",
-      "Location?",
-      "Raising details?"
-    ]
-  },
-  {
-    "id": "caseflood-ai-yc-w25",
-    "company": "Caseflood.ai (YC W25)",
-    "tagline": "Caseflood.ai (YC W25), led by CEO Ethan Hilton, a San Francisco...Caseflood.ai raises $3.2M from Y Combinator and others",
-    "description": "Caseflood.ai is an AI-native platform that acts as an AI receptionist specifically designed for law firms, automating client intake, scheduling, and initial consultations to streamline legal workflows. Company Overview: Caseflood.ai is an AI-native platform that acts as an AI receptionist specifically designed for law firms, automating client intake, scheduling, and initial consultations to streamline legal workflows. Team Background: Led by CEO Ethan Hilton, who is a YC W25 alumni. The team includes experienced engineers and domain experts, with early hires noted in Y Combinator job postings seeking a founding engineer.",
+    "id": "kodhau",
+    "company": "KodHau",
+    "tagline": "just got into Founders, Inc. @fdotinc Canopy! building KodHau—giving your AI agent WHY your senior dev wrote your code t",
+    "description": "KodHau is an AI-native tool that serves as a governance layer for AI agents, injecting tribal knowledge from GitHub PR history—such as architecture decisions, code review comments, and rejected approaches—into AI coding workflows. It uses an MCP server to provide context like constraints and past decisions directly to AI agents, helping them understand why senior engineers wrote code in a certain way. This addresses the problem of AI agents missing undocumented team knowledge",
     "stage": "Pre-seed",
     "status": "Tracking",
     "conviction": "Medium",
@@ -358,90 +294,25 @@
     "location": "",
     "founders": [
       {
-        "name": "Ethan Hilton",
+        "name": "Zhas",
         "role": "Founder & CEO"
       }
     ],
-    "website": "https://telora.com/learn",
-    "linkedin": "https://www.linkedin.com/posts/colaeb_casefloodai-yc-w25-led-by-ceo-ethan-hilton-activity-7356385663660748800-9fxw",
+    "website": "https://poweredbyai.app/project/kodhau",
+    "linkedin": "https://www.linkedin.com/posts/zhasulan-serikbek_your-ai-agent-doesnt-know-what-your-senior-activity-7458554873903493122-AONl",
     "email": "",
-    "traction": "",
-    "source": "ai-deal-sourcer pipeline (Ethan Hilton/Caseflood.ai (YC W25), score: 8/10)",
+    "source": "ai-deal-sourcer pipeline (Zhas/KodHau, score: 7/10)",
     "firstContact": "2026-05",
     "nextAction": "Initial outreach drafted via pipeline",
-    "openQuestions": [
-      "Stage?",
-      "Location?",
-      "Raising details?"
-    ]
-  },
-  {
-    "id": "remster",
-    "company": "Remster",
-    "tagline": "Remster is now in Founders, Inc. in San Francisco It all went down...From Applying -> Landing in sfo. Shout out to Huber",
-    "description": "Remster is an AI-native sleep technology company that has developed an intelligent bed capable of automatically adjusting temperature, light, and aroma to improve sleep quality. The company is based in San Francisco and is part of the Founders, Inc. accelerator, having recently relocated from India to the US. Company Overview: Remster is an AI-native sleep technology company that has developed an intelligent bed capable of automatically adjusting temperature, light, and aroma to improve sleep quality. The company is based in San Francisco and is part of the Founders, Inc. accelerator, having recently relocated from India to the US. Team Background: Founder Sumukha Nadig led the company's rapid relocation from India to San Francisco after a 10-minute call with Hubert Thieblot of Founders...",
-    "stage": "Pre-seed",
-    "status": "Tracking",
-    "conviction": "Medium",
-    "category": [
-      "AI Agents"
-    ],
-    "location": "",
-    "founders": [
-      {
-        "name": "Sumukha Nadig",
-        "role": "Founder & CEO"
-      }
-    ],
-    "website": "https://remster.in/features",
-    "linkedin": "https://www.linkedin.com/in/sumukha-nadig-017a17264/",
-    "email": "",
-    "traction": "",
-    "source": "ai-deal-sourcer pipeline (Sumukha Nadig/Remster, score: 7/10)",
-    "firstContact": "2026-05",
-    "nextAction": "Initial outreach drafted via pipeline",
-    "openQuestions": [
-      "Stage?",
-      "Location?",
-      "Raising details?"
-    ]
-  },
-  {
-    "id": "starcy-ai",
-    "company": "StarCy.ai",
-    "tagline": "yesterday i met ruslan from fdotinc he liked one of my posts about StarCy.ai most people would've just taken the like an",
-    "description": "StarCy.ai is an AI-native startup developing a personal AI companion, often described as an 'AI friend' that aims to offer natural, human-like interactions. The company focuses on conversational AI with a strong emphasis on emotional intelligence and natural flow, positioning itself as a more advanced alternative to traditional voice assistants like Siri. Company Overview: StarCy.ai is an AI-native startup developing a personal AI companion, often described as an 'AI friend' that aims to offer natural, human-like interactions. The company focuses on conversational AI with a strong emphasis on emotional intelligence and natural flow, positioning itself as a more advanced alternative to traditional voice assistants like Siri. Team Background: Yutish Goel is the founder of StarCy.ai. Based...",
-    "stage": "Pre-seed",
-    "status": "Tracking",
-    "conviction": "Medium",
-    "category": [
-      "AI Agents"
-    ],
-    "location": "",
-    "founders": [
-      {
-        "name": "Yutish Goel",
-        "role": "Founder & CEO"
-      }
-    ],
-    "website": "https://launchtory.com/topics/technology/page-3",
-    "linkedin": "https://www.linkedin.com/in/yutishgoel",
-    "email": "",
-    "traction": "",
-    "source": "ai-deal-sourcer pipeline (Yutish Goel/StarCy.ai, score: 7/10)",
-    "firstContact": "2026-05",
-    "nextAction": "Initial outreach drafted via pipeline",
-    "openQuestions": [
-      "Stage?",
-      "Location?",
-      "Raising details?"
-    ]
+    "generalInfo": {},
+    "metrics": {},
+    "whyInvest": ""
   },
   {
     "id": "microfactory",
     "company": "Microfactory",
     "tagline": "San Francisco-based Microfactory, founded by Igor Kulakov (CEO) and Viktor Petrenko, has raised a $1.5 million pre-seed ",
-    "description": "MicroFactory is a San Francisco-based AI-native robotics startup that has built a compact, tabletop manufacturing kit (roughly the size of a dog crate) priced at $5,000. The system features two robotic arms and uses AI to learn tasks by watching humans, enabling flexible production of electronics, textiles, food processing, and laboratory items. It embodies the microfactory concept of capital-light, localized, automated manufacturing. Company Overview: MicroFactory is a San Francisco-based AI-native robotics startup that has built a compact, tabletop manufacturing kit (roughly the size of a dog crate) priced at $5,000. The system features two robotic arms and uses AI to learn tasks by watching humans, enabling flexible production of electronics, textiles, food processing, and laboratory...",
+    "description": "MicroFactory is a San Francisco-based AI-native robotics startup that has built a compact, tabletop manufacturing kit (roughly the size of a dog crate) priced at $5,000. The system features two robotic arms and uses AI to learn tasks by watching humans, enabling flexible production of electronics, textiles, food processing, and laboratory items. It embodies the microfactory concept of capital-light, localized, automated manufacturing",
     "stage": "Pre-seed",
     "status": "Tracking",
     "conviction": "Medium",
@@ -458,428 +329,95 @@
     "website": "https://techcrunch.com/2025/09/16/this-30m-startup-built-a-dog-crate-sized-robot-factory-that-learns-by-watching-humans/",
     "linkedin": "https://www.linkedin.com/posts/traded-venture-capital_sanfrancisco-california-venturecapital-activity-7374117355985031169-69pi",
     "email": "",
-    "traction": "",
     "source": "ai-deal-sourcer pipeline (Igor Kulakov/Microfactory, score: 7/10)",
     "firstContact": "2026-05",
     "nextAction": "Initial outreach drafted via pipeline",
-    "openQuestions": [
-      "Stage?",
-      "Location?",
-      "Raising details?"
-    ]
+    "generalInfo": {},
+    "metrics": {},
+    "whyInvest": ""
   },
   {
-    "id": "lumos-ai",
-    "company": "Lumos AI",
-    "tagline": "YC S24 alum building AI-powered code review. Raised $3M seed. Building with Claude.",
-    "description": "Lumos AI is an AI-powered code review platform that integrates with GitHub. Uses Claude to catch bugs, security issues, and style violations before human review.",
+    "id": "remster",
+    "company": "Remster",
+    "tagline": "Remster is now in Founders, Inc. in San Francisco It all went down...From Applying -> Landing in sfo. Shout out to Huber",
+    "description": "Remster is an AI-native sleep technology company that has developed an intelligent bed capable of automatically adjusting temperature, light, and aroma to improve sleep quality. The company is based in San Francisco and is part of the Founders, Inc. accelerator, having recently relocated from India to the US",
     "stage": "Pre-seed",
     "status": "Tracking",
-    "conviction": "High",
+    "conviction": "Medium",
     "category": [
       "AI Agents"
     ],
-    "location": "San Francisco, CA",
+    "location": "",
     "founders": [
       {
-        "name": "Sarah Chen",
+        "name": "Sumukha Nadig",
+        "role": "Founder & CEO"
+      }
+    ],
+    "website": "https://remster.in/features",
+    "linkedin": "https://www.linkedin.com/in/sumukha-nadig-017a17264/",
+    "email": "",
+    "source": "ai-deal-sourcer pipeline (Sumukha Nadig/Remster, score: 7/10)",
+    "firstContact": "2026-05",
+    "nextAction": "Initial outreach drafted via pipeline",
+    "generalInfo": {},
+    "metrics": {},
+    "whyInvest": ""
+  },
+  {
+    "id": "starcy-ai",
+    "company": "StarCy.ai",
+    "tagline": "yesterday i met ruslan from fdotinc he liked one of my posts about StarCy.ai most people would've just taken the like an",
+    "description": "StarCy.ai is an AI-native startup developing a personal AI companion, often described as an 'AI friend' that aims to offer natural, human-like interactions. The company focuses on conversational AI with a strong emphasis on emotional intelligence and natural flow, positioning itself as a more advanced alternative to traditional voice assistants like Siri",
+    "stage": "Pre-seed",
+    "status": "Tracking",
+    "conviction": "Medium",
+    "category": [
+      "AI Agents"
+    ],
+    "location": "",
+    "founders": [
+      {
+        "name": "Yutish Goel",
+        "role": "Founder & CEO"
+      }
+    ],
+    "website": "https://launchtory.com/topics/technology/page-3",
+    "linkedin": "https://www.linkedin.com/in/yutishgoel",
+    "email": "",
+    "source": "ai-deal-sourcer pipeline (Yutish Goel/StarCy.ai, score: 7/10)",
+    "firstContact": "2026-05",
+    "nextAction": "Initial outreach drafted via pipeline",
+    "generalInfo": {},
+    "metrics": {},
+    "whyInvest": ""
+  },
+  {
+    "id": "unknown",
+    "company": "Unknown",
+    "tagline": "Excited to announce that we got backed by @fdotinc Last month ... We had one idea though \"What if you could talk to an A",
+    "description": "Unknown startup founded by David Im, building an AI avatar platform that enables interactive conversations with historical figures. The initial proof-of-concept was a conversational avatar of Steve Jobs, demonstrating the potential for realistic AI-driven interactions with iconic personas",
+    "stage": "Pre-seed",
+    "status": "Tracking",
+    "conviction": "Medium",
+    "category": [
+      "AI Agents"
+    ],
+    "location": "",
+    "founders": [
+      {
+        "name": "David Im",
         "role": "Founder & CEO"
       }
     ],
     "website": "",
     "linkedin": "",
     "email": "",
-    "source": "ai-deal-sourcer pipeline (Sarah Chen/Lumos AI, score: 9/10)",
+    "source": "ai-deal-sourcer pipeline (David Im/Unknown, score: 8/10)",
     "firstContact": "2026-05",
     "nextAction": "Initial outreach drafted via pipeline",
-    "generalInfo": {
-      "isRaising": "No",
-      "raiseAmount": "$3M seed",
-      "raiseDetails": "Raised $3M seed from a16z. Not actively raising.",
-      "previousInvestors": [
-        "a16z"
-      ]
-    },
-    "metrics": {
-      "traction": "200+ beta users, growing 30% MoM",
-      "userGrowth": "30% MoM",
-      "healthIndicators": "200+ beta users, invite-only waitlist"
-    },
-    "whyInvest": "Strong founder-market fit — Sarah built the same problem at GitHub Copilot, and the product fills a clear gap between linters and human code review."
-  },
-  {
-    "id": "medsynth",
-    "company": "MedSynth",
-    "tagline": "AI-native medical documentation. YC W24, HIPAA compliant. 10 hospitals piloting. Series A inbound.",
-    "description": "MedSynth is an AI-native medical documentation platform that transcribes and structures clinical notes in real-time, HIPAA compliant.",
-    "stage": "Pre-seed",
-    "status": "Tracking",
-    "conviction": "High",
-    "category": [
-      "AI Agents"
-    ],
-    "location": "San Francisco, CA",
-    "founders": [
-      {
-        "name": "Neha Gupta",
-        "role": "Founder & CEO"
-      }
-    ],
-    "website": "",
-    "linkedin": "https://linkedin.com/in/nehagupta",
-    "email": "",
-    "source": "ai-deal-sourcer pipeline (Neha Gupta/MedSynth, score: 9/10)",
-    "firstContact": "2026-05",
-    "nextAction": "Initial outreach drafted via pipeline",
-    "generalInfo": {
-      "isRaising": "No",
-      "raiseAmount": "$2.5M raised",
-      "raiseDetails": "YC W24, Series A inbound, $2.5M raised to date.",
-      "previousInvestors": [
-        "YC"
-      ]
-    },
-    "metrics": {
-      "traction": "Piloting with 10 hospitals, 50k+ notes processed, HIPAA compliant",
-      "lois": "10 hospital pilots",
-      "healthIndicators": "50k+ clinical notes processed, enterprise-grade HIPAA compliance"
-    },
-    "whyInvest": "MD/PhD founder + former Epic engineer co-founder is a dream team for healthcare AI — 10 hospital pilots at pre-seed is exceptional traction with deep moats from regulatory compliance."
-  },
-  {
-    "id": "dataweave",
-    "company": "DataWeave",
-    "tagline": "Just launched AI-native data transformation tool on Product Hunt. Pre-seed, team of 3 in SF.",
-    "description": "DataWeave is an AI-native data transformation platform with a natural language interface, making ETL accessible to non-technical users.",
-    "stage": "Pre-seed",
-    "status": "Tracking",
-    "conviction": "Medium",
-    "category": [
-      "AI Agents"
-    ],
-    "location": "San Francisco, CA",
-    "founders": [
-      {
-        "name": "Marcus Johnson",
-        "role": "Founder & CEO"
-      }
-    ],
-    "website": "https://dataweave.ai",
-    "linkedin": "",
-    "email": "",
-    "source": "ai-deal-sourcer pipeline (Marcus Johnson/DataWeave, score: 8/10)",
-    "firstContact": "2026-05",
-    "nextAction": "Initial outreach drafted via pipeline",
-    "generalInfo": {
-      "isRaising": "Yes",
-      "raiseAmount": "$1.5M pre-seed",
-      "raiseDetails": "Pre-seed, looking to raise $1.5M."
-    },
-    "metrics": {
-      "traction": "Launched on Product Hunt (#4 product of day), 500+ waitlist signups",
-      "healthIndicators": "#4 Product Hunt product of the day"
-    },
-    "whyInvest": "Timely wedge into the $10B data transformation market — no-code ETL with AI is underserved and Marcus has deep domain expertise from Stitch."
-  },
-  {
-    "id": "agentops",
-    "company": "AgentOps",
-    "tagline": "Building vertical AI agent for DevOps. YC W25. Looking for seed round. Based in Austin.",
-    "description": "AgentOps is a vertical AI agent that automates incident response and on-call management for DevOps teams.",
-    "stage": "Pre-seed",
-    "status": "Tracking",
-    "conviction": "Medium",
-    "category": [
-      "AI Agents"
-    ],
-    "location": "Austin, TX",
-    "founders": [
-      {
-        "name": "Priya Patel",
-        "role": "Founder & CEO"
-      }
-    ],
-    "website": "",
-    "linkedin": "https://linkedin.com/in/priyapatel",
-    "email": "",
-    "source": "ai-deal-sourcer pipeline (Priya Patel/AgentOps, score: 8/10)",
-    "firstContact": "2026-05",
-    "nextAction": "Initial outreach drafted via pipeline",
-    "generalInfo": {
-      "isRaising": "Yes",
-      "raiseAmount": "$2M seed",
-      "raiseDetails": "YC W25, looking for $2M seed.",
-      "previousInvestors": [
-        "YC"
-      ]
-    },
-    "metrics": {
-      "traction": "Piloting with 5 mid-market companies, $80k ARR",
-      "revenue": "$80k ARR",
-      "healthIndicators": "5 paid pilots with mid-market companies"
-    },
-    "whyInvest": "Vertical AI agent for DevOps has clear ROI story — Priya's SRE background at HashiCorp and the YC network give them distribution advantage in a crowded space."
-  },
-  {
-    "id": "agentic",
-    "company": "Agentic",
-    "tagline": "David Park replying to @fdotinc: 'building AI agents for sales outreach in SF, launching beta next month'",
-    "description": "Agentic is building AI-powered sales outreach agents that automate personalized cold email and LinkedIn sequences.",
-    "stage": "Pre-seed",
-    "status": "Tracking",
-    "conviction": "Medium",
-    "category": [
-      "AI Agents"
-    ],
-    "location": "San Francisco, CA",
-    "founders": [
-      {
-        "name": "David Park",
-        "role": "Founder & CEO"
-      }
-    ],
-    "website": "",
-    "linkedin": "",
-    "email": "",
-    "source": "ai-deal-sourcer pipeline (David Park/Agentic, score: 8/10)",
-    "firstContact": "2026-05",
-    "nextAction": "Initial outreach drafted via pipeline",
-    "generalInfo": {
-      "isRaising": "Yes",
-      "raiseAmount": "$1.5M pre-seed",
-      "raiseDetails": "Pre-seed, looking to raise $1.5M. Beta launching next month."
-    },
-    "metrics": {
-      "traction": "10 beta users, $50k ARR from early pilot",
-      "revenue": "$50k ARR",
-      "healthIndicators": "Revenue-generating pilot before public launch"
-    },
-    "whyInvest": "Sales outreach AI is a massive market and David's combined Salesforce + ML background is the exact profile needed to execute on the AI sales agent thesis."
-  },
-  {
-    "id": "trustat",
-    "company": "TruStat",
-    "tagline": "@hthieblot liked Maya's post: 'just raised $1.2M pre-seed for AI-native statistical modeling. SF-based, hiring.'",
-    "description": "TruStat is an AI-native statistical modeling platform that lets data scientists describe analyses in natural language.",
-    "stage": "Pre-seed",
-    "status": "Tracking",
-    "conviction": "Medium",
-    "category": [
-      "AI Agents"
-    ],
-    "location": "San Francisco, CA",
-    "founders": [
-      {
-        "name": "Maya Rodriguez",
-        "role": "Founder & CEO"
-      }
-    ],
-    "website": "",
-    "linkedin": "",
-    "email": "",
-    "source": "ai-deal-sourcer pipeline (Maya Rodriguez/TruStat, score: 8/10)",
-    "firstContact": "2026-05",
-    "nextAction": "Initial outreach drafted via pipeline",
-    "generalInfo": {
-      "isRaising": "No",
-      "raiseAmount": "$1.2M pre-seed",
-      "raiseDetails": "Raised $1.2M pre-seed. Actively hiring SF-based engineers.",
-      "previousInvestors": [
-        "Angel investors"
-      ]
-    },
-    "metrics": {
-      "traction": "5 enterprise trials active",
-      "healthIndicators": "5 enterprise trial deployments"
-    },
-    "whyInvest": "PhD-level statistical rigor combined with natural language UX creates a defensible product — replacing SPSS/SAS workflows with AI is a clear wedge into the $5B statistical software market."
-  },
-  {
-    "id": "krispai",
-    "company": "KrispAI",
-    "tagline": "Just raised $2M pre-seed for AI-native call summarization for sales teams. SF-based, hiring founding engineers.",
-    "description": "KrispAI is an AI-native call summarization platform for sales teams. Transcribes sales calls, auto-generates CRM notes, and surfaces action items.",
-    "stage": "Pre-seed",
-    "status": "Tracking",
-    "conviction": "Medium",
-    "category": [
-      "AI Agents"
-    ],
-    "location": "San Francisco, CA",
-    "founders": [
-      {
-        "name": "Rohan Mehta",
-        "role": "Founder & CEO"
-      }
-    ],
-    "website": "",
-    "linkedin": "https://www.linkedin.com/in/rohanmehta",
-    "email": "",
-    "source": "ai-deal-sourcer pipeline (Rohan Mehta/KrispAI, score: 8/10)",
-    "firstContact": "2026-05",
-    "nextAction": "Initial outreach drafted via pipeline",
-    "generalInfo": {
-      "isRaising": "No",
-      "raiseAmount": "$2M pre-seed",
-      "raiseDetails": "Raised $2M pre-seed. Actively hiring founding engineers in SF."
-    },
-    "metrics": {
-      "traction": "5 design partners in beta",
-      "healthIndicators": "5 design partners, $2M raised at pre-seed"
-    },
-    "whyInvest": "Gong product background gives Rohan insider understanding of the sales intelligence space — KrispAI is an AI-native rearchitecture of a category Gong proved exists."
-  },
-  {
-    "id": "finchat",
-    "company": "FinChat",
-    "tagline": "AI-native fintech for personal finance. Launched beta, 5k users. Pre-seed, team of 2 in NYC.",
-    "description": "FinChat is an AI-native personal finance assistant that helps users track, budget, and optimize spending via natural language.",
-    "stage": "Pre-seed",
-    "status": "Tracking",
-    "conviction": "Medium",
-    "category": [
-      "AI Agents"
-    ],
-    "location": "New York, NY",
-    "founders": [
-      {
-        "name": "Alex Kim",
-        "role": "Founder & CEO"
-      }
-    ],
-    "website": "",
-    "linkedin": "",
-    "email": "",
-    "source": "ai-deal-sourcer pipeline (Alex Kim/FinChat, score: 7/10)",
-    "firstContact": "2026-05",
-    "nextAction": "Initial outreach drafted via pipeline",
-    "generalInfo": {
-      "isRaising": "Yes",
-      "raiseAmount": "$1M pre-seed",
-      "raiseDetails": "Pre-seed, raising $1M from angels."
-    },
-    "metrics": {
-      "traction": "5k users, 40% WoW growth, $15k MRR",
-      "revenue": "$15k MRR",
-      "userGrowth": "40% WoW",
-      "healthIndicators": "5k users on public beta (iOS), strong organic growth"
-    },
-    "whyInvest": "40% WoW growth demonstrates clear product-market fit in AI-native fintech — a massive TAM where incumbents lack conversational UX."
-  },
-  {
-    "id": "vibeml",
-    "company": "VibeML",
-    "tagline": "Building no-code ML platform. SF-based, team of 4, recently raised $1.2M pre-seed.",
-    "description": "VibeML is a no-code platform for building and deploying ML models with a drag-and-drop interface and automated infrastructure.",
-    "stage": "Pre-seed",
-    "status": "Tracking",
-    "conviction": "Medium",
-    "category": [
-      "AI Agents"
-    ],
-    "location": "San Francisco, CA",
-    "founders": [
-      {
-        "name": "Jordan Taylor",
-        "role": "Founder & CEO"
-      }
-    ],
-    "website": "https://vibeml.com",
-    "linkedin": "",
-    "email": "",
-    "source": "ai-deal-sourcer pipeline (Jordan Taylor/VibeML, score: 7/10)",
-    "firstContact": "2026-05",
-    "nextAction": "Initial outreach drafted via pipeline",
-    "generalInfo": {
-      "isRaising": "No",
-      "raiseAmount": "$1.2M pre-seed",
-      "raiseDetails": "Raised $1.2M pre-seed from angels.",
-      "previousInvestors": [
-        "Angel investors"
-      ]
-    },
-    "metrics": {
-      "traction": "100+ signups since beta, $500k ARR from 10 SMB customers",
-      "revenue": "$500k ARR",
-      "healthIndicators": "10 paying SMB customers with $500k ARR on a pre-seed budget"
-    },
-    "whyInvest": "No-code ML platform has strong unit economics ($50k avg ACV) and Jordan's Meta ML pedigree de-risks the technical execution."
-  },
-  {
-    "id": "complyai",
-    "company": "ComplyAI",
-    "tagline": "AI compliance agent for startups. Just raised $1.5M pre-seed. Female founder in Seattle.",
-    "description": "ComplyAI is an AI compliance agent that automates SOC2, HIPAA, and GDPR documentation for startups.",
-    "stage": "Pre-seed",
-    "status": "Tracking",
-    "conviction": "Medium",
-    "category": [
-      "AI Agents"
-    ],
-    "location": "Seattle, WA",
-    "founders": [
-      {
-        "name": "Emily Zhang",
-        "role": "Founder & CEO"
-      }
-    ],
-    "website": "https://complyai.com",
-    "linkedin": "",
-    "email": "",
-    "source": "ai-deal-sourcer pipeline (Emily Zhang/ComplyAI, score: 7/10)",
-    "firstContact": "2026-05",
-    "nextAction": "Initial outreach drafted via pipeline",
-    "generalInfo": {
-      "isRaising": "No",
-      "raiseAmount": "$1.5M pre-seed",
-      "raiseDetails": "Raised $1.5M pre-seed from a Berlin-based VC.",
-      "previousInvestors": [
-        "Berlin-based VC"
-      ]
-    },
-    "metrics": {
-      "traction": "20 paying customers, $300k ARR, 98% retention",
-      "revenue": "$300k ARR",
-      "healthIndicators": "98% customer retention, 20 paying customers"
-    },
-    "whyInvest": "Perfect timing as AI adoption drives compliance needs — 98% retention proves stickiness, and Stripe compliance background gives Emily unique domain authority."
-  },
-  {
-    "id": "guardianml",
-    "company": "GuardianML",
-    "tagline": "Building AI guardrails for enterprise LLM deployments. YC W25, team of 3 in NYC. Looking for seed partners.",
-    "description": "GuardianML provides AI guardrails and safety layers for enterprise LLM deployments, monitoring inputs, outputs, and enforcing policy boundaries.",
-    "stage": "Pre-seed",
-    "status": "Tracking",
-    "conviction": "Medium",
-    "category": [
-      "AI Agents"
-    ],
-    "location": "New York, NY",
-    "founders": [
-      {
-        "name": "Sophia Tran",
-        "role": "Founder & CEO"
-      }
-    ],
-    "website": "",
-    "linkedin": "https://www.linkedin.com/in/sophiatran",
-    "email": "",
-    "source": "ai-deal-sourcer pipeline (Sophia Tran/GuardianML, score: 7/10)",
-    "firstContact": "2026-05",
-    "nextAction": "Initial outreach drafted via pipeline",
-    "generalInfo": {
-      "isRaising": "Yes",
-      "raiseAmount": "Seed round",
-      "raiseDetails": "YC W25 (standard $500k deal). Looking for seed round.",
-      "previousInvestors": [
-        "YC"
-      ]
-    },
-    "metrics": {
-      "traction": "Early prototype with 2 pilot customers",
-      "healthIndicators": "2 pilot customers in YC W25 batch"
-    },
-    "whyInvest": "Enterprise LLM guardrails are becoming non-negotiable as AI adoption scales — YC backing and Scale AI pedigree position GuardianML well in the emerging AI safety layer market."
+    "generalInfo": {},
+    "metrics": {},
+    "whyInvest": ""
   }
 ]

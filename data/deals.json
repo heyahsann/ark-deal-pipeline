@@ -3,7 +3,7 @@
     "id": "helmai",
     "company": "HelmAI",
     "tagline": "AI agent that surfaces churn risk 60 days before renewal",
-    "description": "Reads all customer comms â€” email, Slack, calls â€” and generates a living Customer Persona per account. Predicts churn 60 days out and auto-drafts next actions for CSMs. 3-min OAuth setup, no data entry required. Agent-first wedge into the Gainsight category.",
+    "description": "Reads all customer comms — email, Slack, calls — and generates a living Customer Persona per account. Predicts churn 60 days out and auto-drafts next actions for CSMs. 3-min OAuth setup, no data entry required. Agent-first wedge into the Gainsight category.",
     "stage": "Pre-seed / Seed",
     "status": "Intro Made",
     "conviction": "High",
@@ -26,8 +26,13 @@
     "firstContact": "2026-04",
     "nextAction": "Meeting over a coffee in SF",
     "accelerator": "Antler",
-    "generalInfo": {},
-    "metrics": {},
+    "generalInfo": {
+      "isRaising": "Unknown",
+      "raiseDetails": "Rest of team?; Deck available?"
+    },
+    "metrics": {
+      "traction": "6 design partners · 240+ accounts monitored · 11 churn signals caught in private beta"
+    },
     "whyInvest": ""
   },
   {
@@ -56,15 +61,20 @@
     "email": "",
     "source": "Web research",
     "firstContact": "2026-05",
-    "nextAction": "DM Johan on LinkedIn Â· confirm HQ Â· ask if raising",
-    "generalInfo": {},
-    "metrics": {},
+    "nextAction": "DM Johan on LinkedIn · confirm HQ · ask if raising",
+    "generalInfo": {
+      "isRaising": "Unknown",
+      "raiseDetails": "Revenue model?; Round size?"
+    },
+    "metrics": {
+      "traction": "#1 Product Hunt daily · Veed, Wix, Grammarly, TheFork as customers · customer closed €4.6M pre-seed using Kanwas"
+    },
     "whyInvest": ""
   },
   {
     "id": "moda",
     "company": "Moda",
-    "tagline": "AI design agent with taste â€” $7.5M seed to kill AI slop. Launched March 2026.",
+    "tagline": "AI design agent with taste — $7.5M seed to kill AI slop. Launched March 2026.",
     "description": "Moda is an AI-native design platform that provides every professional with a brand-aligned design agent. The world's first 'design agent with taste,' enabling humans and AI agents to collaborate on a Figma/Canva-style canvas. Eliminates generic AI output by generating fully editable, brand-consistent designs for presentations, marketing materials, and reports. Raised $7.5M seed led by General Catalyst.",
     "stage": "Seed",
     "status": "Tracking",
@@ -94,15 +104,20 @@
     "source": "ai-deal-sourcer pipeline (verified: Anvisha Pai/Moda)",
     "firstContact": "2026-05",
     "nextAction": "Initial outreach drafted via pipeline",
-    "generalInfo": {},
-    "metrics": {},
+    "generalInfo": {
+      "isRaising": "Unknown",
+      "raiseDetails": "Stage?"
+    },
+    "metrics": {
+      "traction": "#1 in Design Arena for Slides. $7.5M seed from General Catalyst."
+    },
     "whyInvest": ""
   },
   {
     "id": "nozomio-yc-s25",
     "company": "nozomio (YC S25)",
     "tagline": "18, founder @ nozomio (yc s25), research @ stanford, forbes 30u30, high school junior dropout.Haz is the guy. Star of Fd",
-    "description": "Nozomio (YC S25) is a product and research lab solving the AI context problem, beginning with Niaâ€”a search and index API that provides agents with real-time context from docs, research papers, datasets, and codebases. It is scalable, 5x cheaper, and reliable, ensuring AI agents never rely on stale data",
+    "description": "Nozomio (YC S25) is a product and research lab solving the AI context problem, beginning with Nia—a search and index API that provides agents with real-time context from docs, research papers, datasets, and codebases. It is scalable, 5x cheaper, and reliable, ensuring AI agents never rely on stale data",
     "stage": "Pre-seed",
     "status": "Tracking",
     "conviction": "High",
@@ -122,15 +137,18 @@
     "source": "ai-deal-sourcer pipeline (Arlan Rakhmetzhanov/nozomio (YC S25), score: 9/10)",
     "firstContact": "2026-05",
     "nextAction": "Initial outreach drafted via pipeline",
-    "generalInfo": {},
+    "generalInfo": {
+      "isRaising": "Unknown",
+      "raiseDetails": "Stage?"
+    },
     "metrics": {},
     "whyInvest": ""
   },
   {
     "id": "provenance",
     "company": "Provenance",
-    "tagline": "System of intelligence for engineering ops â€” prevents incidents before they hit production",
-    "description": "Connects GitHub PRs, Jira, support tickets, and post-mortems to flag regression risk before code ships. Alerts on-call and support after high-risk merges. No AI hallucinations â€” purely pattern-based on historical incident data. Institutional memory for engineering orgs.",
+    "tagline": "System of intelligence for engineering ops — prevents incidents before they hit production",
+    "description": "Connects GitHub PRs, Jira, support tickets, and post-mortems to flag regression risk before code ships. Alerts on-call and support after high-risk merges. No AI hallucinations — purely pattern-based on historical incident data. Institutional memory for engineering orgs.",
     "stage": "Pre-seed",
     "status": "Tracking",
     "conviction": "High",
@@ -153,8 +171,13 @@
     "firstContact": "2026-04",
     "currentStatus": "DMed him for an intro call or meet with Fahim if he is in SF",
     "nextAction": "Intro ark and screening over a call",
-    "generalInfo": {},
-    "metrics": {},
+    "generalInfo": {
+      "isRaising": "Unknown",
+      "raiseDetails": "Design partners?; Full team background?"
+    },
+    "metrics": {
+      "traction": "Very early — pre-launch"
+    },
     "whyInvest": ""
   },
   {
@@ -181,7 +204,10 @@
     "source": "ai-deal-sourcer pipeline (Amitabh Das/AgentOS, score: 7/10)",
     "firstContact": "2026-05",
     "nextAction": "Initial outreach drafted via pipeline",
-    "generalInfo": {},
+    "generalInfo": {
+      "isRaising": "Unknown",
+      "raiseDetails": "Stage?"
+    },
     "metrics": {},
     "whyInvest": ""
   },
@@ -209,7 +235,10 @@
     "source": "ai-deal-sourcer pipeline (Ethan Hilton/Caseflood.ai (YC W25), score: 8/10)",
     "firstContact": "2026-05",
     "nextAction": "Initial outreach drafted via pipeline",
-    "generalInfo": {},
+    "generalInfo": {
+      "isRaising": "Unknown",
+      "raiseDetails": "Stage?"
+    },
     "metrics": {},
     "whyInvest": ""
   },
@@ -217,7 +246,7 @@
     "id": "chatblu",
     "company": "ChatBlu",
     "tagline": "Autonomous AI agent for multi-platform e-commerce inventory management",
-    "description": "AI agent that lets e-commerce sellers manage inventory across Shopify, Amazon, Etsy, and WooCommerce via natural language commands. Syncs listings, manages stock, adjusts pricing autonomously. No manual backend work â€” just tell it what you want done.",
+    "description": "AI agent that lets e-commerce sellers manage inventory across Shopify, Amazon, Etsy, and WooCommerce via natural language commands. Syncs listings, manages stock, adjusts pricing autonomously. No manual backend work — just tell it what you want done.",
     "stage": "Seed",
     "status": "Tracking",
     "conviction": "Medium",
@@ -246,17 +275,26 @@
     "email": "",
     "source": "Pitch deck via shared link",
     "firstContact": "2026-05",
-    "nextAction": "Review full seed deck Â· confirm post-launch traction",
+    "nextAction": "Review full seed deck · confirm post-launch traction",
     "accelerator": "Genoa Entrepreneurship School",
-    "generalInfo": {},
-    "metrics": {},
+    "generalInfo": {
+      "raiseDetails": "Post-launch customers?; ARR?; Seed round size & terms?",
+      "previousInvestors": [
+        "Matador VC",
+        "Google angels",
+        "AWS angels"
+      ]
+    },
+    "metrics": {
+      "traction": "$500K pre-seed closed Aug 2025 · Matador VC + Google/AWS angels · launched Sept 2025"
+    },
     "whyInvest": ""
   },
   {
     "id": "clayzo",
     "company": "Clayzo",
-    "tagline": "building @useclayzo â€¢ @fdotinc , @AforeVC",
-    "description": "Clayzo is an AI-native development platform that enables product teams to prototype, review, and collaborate on features directly on their existing codebase. It uses AI to abstract developer context, allowing non-technical team members to spin up the product in the browser with two clicks, prototype ideas, record walkthroughs, and leave contextual feedback tied to the real codebaseâ€”turning what was spread across screenshots, Looms, and Slack into actionable tasks for engineers and coding agents",
+    "tagline": "building @useclayzo • @fdotinc , @AforeVC",
+    "description": "Clayzo is an AI-native development platform that enables product teams to prototype, review, and collaborate on features directly on their existing codebase. It uses AI to abstract developer context, allowing non-technical team members to spin up the product in the browser with two clicks, prototype ideas, record walkthroughs, and leave contextual feedback tied to the real codebase—turning what was spread across screenshots, Looms, and Slack into actionable tasks for engineers and coding agents",
     "stage": "Pre-seed",
     "status": "Tracking",
     "conviction": "Medium",
@@ -276,15 +314,18 @@
     "source": "ai-deal-sourcer pipeline (Janani Prasad/Clayzo, score: 7/10)",
     "firstContact": "2026-05",
     "nextAction": "Initial outreach drafted via pipeline",
-    "generalInfo": {},
+    "generalInfo": {
+      "isRaising": "Unknown",
+      "raiseDetails": "Stage?"
+    },
     "metrics": {},
     "whyInvest": ""
   },
   {
     "id": "kodhau",
     "company": "KodHau",
-    "tagline": "just got into Founders, Inc. @fdotinc Canopy! building KodHauâ€”giving your AI agent WHY your senior dev wrote your code t",
-    "description": "KodHau is an AI-native tool that serves as a governance layer for AI agents, injecting tribal knowledge from GitHub PR historyâ€”such as architecture decisions, code review comments, and rejected approachesâ€”into AI coding workflows. It uses an MCP server to provide context like constraints and past decisions directly to AI agents, helping them understand why senior engineers wrote code in a certain way. This addresses the problem of AI agents missing undocumented team knowledge",
+    "tagline": "just got into Founders, Inc. @fdotinc Canopy! building KodHau—giving your AI agent WHY your senior dev wrote your code t",
+    "description": "KodHau is an AI-native tool that serves as a governance layer for AI agents, injecting tribal knowledge from GitHub PR history—such as architecture decisions, code review comments, and rejected approaches—into AI coding workflows. It uses an MCP server to provide context like constraints and past decisions directly to AI agents, helping them understand why senior engineers wrote code in a certain way. This addresses the problem of AI agents missing undocumented team knowledge",
     "stage": "Pre-seed",
     "status": "Tracking",
     "conviction": "Medium",
@@ -304,7 +345,10 @@
     "source": "ai-deal-sourcer pipeline (Zhas/KodHau, score: 7/10)",
     "firstContact": "2026-05",
     "nextAction": "Initial outreach drafted via pipeline",
-    "generalInfo": {},
+    "generalInfo": {
+      "isRaising": "Unknown",
+      "raiseDetails": "Stage?"
+    },
     "metrics": {},
     "whyInvest": ""
   },
@@ -332,7 +376,10 @@
     "source": "ai-deal-sourcer pipeline (Igor Kulakov/Microfactory, score: 7/10)",
     "firstContact": "2026-05",
     "nextAction": "Initial outreach drafted via pipeline",
-    "generalInfo": {},
+    "generalInfo": {
+      "isRaising": "Unknown",
+      "raiseDetails": "Stage?"
+    },
     "metrics": {},
     "whyInvest": ""
   },
@@ -360,7 +407,10 @@
     "source": "ai-deal-sourcer pipeline (Sumukha Nadig/Remster, score: 7/10)",
     "firstContact": "2026-05",
     "nextAction": "Initial outreach drafted via pipeline",
-    "generalInfo": {},
+    "generalInfo": {
+      "isRaising": "Unknown",
+      "raiseDetails": "Stage?"
+    },
     "metrics": {},
     "whyInvest": ""
   },
@@ -388,7 +438,10 @@
     "source": "ai-deal-sourcer pipeline (Yutish Goel/StarCy.ai, score: 7/10)",
     "firstContact": "2026-05",
     "nextAction": "Initial outreach drafted via pipeline",
-    "generalInfo": {},
+    "generalInfo": {
+      "isRaising": "Unknown",
+      "raiseDetails": "Stage?"
+    },
     "metrics": {},
     "whyInvest": ""
   },
@@ -416,7 +469,10 @@
     "source": "ai-deal-sourcer pipeline (David Im/Unknown, score: 8/10)",
     "firstContact": "2026-05",
     "nextAction": "Initial outreach drafted via pipeline",
-    "generalInfo": {},
+    "generalInfo": {
+      "isRaising": "Unknown",
+      "raiseDetails": "Stage?"
+    },
     "metrics": {},
     "whyInvest": ""
   }

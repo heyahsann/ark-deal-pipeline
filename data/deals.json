@@ -413,5 +413,73 @@
     },
     "metrics": {},
     "whyInvest": "Founder relocated from India to SF for FDOTinc — rare grit signal. AI-native sleep tech with temperature, light, and aroma automation hits a massive consumer wellness market. Pre-revenue but the hardware wedge is defensible if the product delivers."
+  },
+  {
+    "id": "astral",
+    "company": "Astral",
+    "tagline": "First AI marketer that acts like a human — raised $1.2M to automate Reddit/LinkedIn engagement",
+    "description": "Astral is an AI marketing startup that has built an autonomous AI agent capable of browsing the internet, finding potential customers, and engaging with them in a human-like manner. The company's technology is designed to automate marketing tasks on platforms like Reddit and LinkedIn, generating promotional comments and interactions. Its AI-native angle is its ability to act as the first AI marketer that mimics human behavior. The company raised $1.2M pre-seed and initial access spots were filled instantly.",
+    "stage": "Pre-seed",
+    "status": "Tracking",
+    "conviction": "High",
+    "category": [
+      "AI Agents",
+      "Marketing"
+    ],
+    "location": "San Francisco, CA",
+    "founders": [
+      {
+        "name": "Savannah Feder",
+        "role": "Founder & CEO"
+      }
+    ],
+    "website": "",
+    "linkedin": "https://www.linkedin.com/in/savannahfeder",
+    "email": "",
+    "source": "ai-deal-sourcer pipeline (Savannah Feder/Astral, score: 8/10)",
+    "firstContact": "2026-05",
+    "nextAction": "Initial outreach drafted via pipeline — need to verify location and confirm if still raising",
+    "generalInfo": {
+      "isRaising": "No",
+      "raiseDetails": "Raised $1.2M pre-seed, announced April 2025. No lead investor disclosed."
+    },
+    "metrics": {
+      "traction": "Initial access spots filled instantly upon unveiling. $1.2M raised. Significant media buzz (Gizmodo, PRNewswire)."
+    },
+    "whyInvest": "First-mover in AI-native marketing agents combined with strong founder-market fit and early demand signals — initial access spots filled instantly suggests real PMF in a massive TAM (automated B2B outreach)."
+  },
+  {
+    "id": "capwave",
+    "company": "Capwave",
+    "tagline": "Agentic AI fundraising system — automates deck analysis, investor matching, and outreach for founders",
+    "description": "Capwave is an AI-native platform that automates the fundraising process for startup founders. Its AI agents handle pitch deck analysis, investor matching, pre-diligence, and personalized outreach, allowing founders to focus on conviction rather than administrative busywork. The company positions itself as an agentic AI fundraising system that streamlines the entire raise from preparation to close. Based in San Francisco with NC IDEA grant validation.",
+    "stage": "Pre-seed",
+    "status": "Tracking",
+    "conviction": "High",
+    "category": [
+      "AI Agents",
+      "SaaS"
+    ],
+    "location": "San Francisco, CA",
+    "founders": [
+      {
+        "name": "Charlotte Ketelaar",
+        "role": "Founder & CEO"
+      }
+    ],
+    "website": "https://capwave.ai",
+    "linkedin": "https://www.linkedin.com/in/charlotte-ketelaar",
+    "email": "",
+    "source": "ai-deal-sourcer pipeline (Charlotte Ketelaar/Capwave, score: 7/10)",
+    "firstContact": "2026-05",
+    "nextAction": "Initial outreach drafted via pipeline — confirm if actively raising",
+    "generalInfo": {
+      "isRaising": "Unknown",
+      "raiseDetails": "NC IDEA grant recipient. No disclosed round. Active website with pricing page."
+    },
+    "metrics": {
+      "traction": "Featured in GrepBeat (Aug 2025). NC IDEA grant recipient. Active website with pricing page. LinkedIn content engagement."
+    },
+    "whyInvest": "AI-native fundraising automation addresses a universal founder pain point in a large TAM — Charlotte's deep domain expertise in fundraising and SF location give her distribution advantage in the startup ecosystem."
   }
 ]

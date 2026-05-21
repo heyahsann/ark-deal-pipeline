@@ -33,7 +33,7 @@
     "metrics": {
       "traction": "6 design partners · 240+ accounts monitored · 11 churn signals caught in private beta"
     },
-    "whyInvest": ""
+    "whyInvest": "Agent-first wedge into the $15B customer success market — 11 real churn signals caught in private beta proves the engine works, and 3-min OAuth setup removes the sales friction that kills legacy CS tools. Antler backing and SF location add credibility."
   },
   {
     "id": "kanwas",
@@ -69,7 +69,7 @@
     "metrics": {
       "traction": "#1 Product Hunt daily · Veed, Wix, Grammarly, TheFork as customers · customer closed €4.6M pre-seed using Kanwas"
     },
-    "whyInvest": ""
+    "whyInvest": "Rare combination of open-source virality and enterprise traction — #1 Product Hunt daily with Veed, Wix, and Grammarly as customers validates real product-market fit. The context-graph approach to keeping AI agents aligned with team knowledge is a defensible infrastructure play."
   },
   {
     "id": "moda",
@@ -111,7 +111,7 @@
     "metrics": {
       "traction": "#1 in Design Arena for Slides. $7.5M seed from General Catalyst."
     },
-    "whyInvest": ""
+    "whyInvest": "$7.5M seed from General Catalyst with a full three-founder team signals serious conviction — the \"design agent with taste\" positioning attacks Canva/Figma's blind spot in brand-consistent AI output, a massive TAM where incumbents are vulnerable."
   },
   {
     "id": "nozomio-yc-s25",
@@ -142,7 +142,7 @@
       "raiseDetails": "Stage"
     },
     "metrics": {},
-    "whyInvest": ""
+    "whyInvest": "Founder story is exceptional — Stanford researcher, Forbes 30u30, YC S25 at 18 — and the $6.2M seed into solving AI's context problem addresses the most painful bottleneck in agent reliability: stale context. 5x cheaper than alternatives is a real wedge."
   },
   {
     "id": "provenance",
@@ -178,7 +178,7 @@
     "metrics": {
       "traction": "Very early — pre-launch"
     },
-    "whyInvest": ""
+    "whyInvest": "Pattern-based incident prevention (no AI hallucinations) is a defensible wedge into engineering ops — every engineering org over 50 people feels this pain acutely. SF location gives direct access to that buyer and Clayton is already iterating on design partner feedback."
   },
   {
     "id": "agentos",
@@ -209,7 +209,7 @@
       "raiseDetails": "Stage"
     },
     "metrics": {},
-    "whyInvest": ""
+    "whyInvest": "FDOTinc Canopy acceptance is a strong founder filter. Support for 21 LLM providers with cognitive memory and runtime tool generation positions AgentOS as agent infrastructure rather than a point tool — the right architecture bet if agent adoption accelerates."
   },
   {
     "id": "caseflood-ai-yc-w25",
@@ -240,7 +240,7 @@
       "raiseDetails": "Stage"
     },
     "metrics": {},
-    "whyInvest": ""
+    "whyInvest": "YC W25 with $3.2M raised targeting legal — a vertical with high willingness to pay and clear ROI (replaces human receptionist staffing). Legal AI is underpenetrated and the AI receptionist wedge is narrow enough to win, broad enough to expand."
   },
   {
     "id": "chatblu",
@@ -288,7 +288,7 @@
     "metrics": {
       "traction": "$500K pre-seed closed Aug 2025 · Matador VC + Google/AWS angels · launched Sept 2025"
     },
-    "whyInvest": ""
+    "whyInvest": "$500K pre-seed from Matador VC + Google/AWS angels, three co-founders with Amazon/Shutterfly CTO pedigree, and already post-launch. Multi-platform e-commerce inventory is a high-frequency pain with clear willingness to pay and a massive merchant TAM."
   },
   {
     "id": "clayzo",
@@ -319,7 +319,7 @@
       "raiseDetails": "Stage"
     },
     "metrics": {},
-    "whyInvest": ""
+    "whyInvest": "Backed by both @fdotinc Canopy and AforeVC — the thesis of letting non-technical team members prototype on the real codebase solves a genuine collaboration gap between product and engineering that no existing tool addresses well."
   },
   {
     "id": "kodhau",
@@ -350,7 +350,7 @@
       "raiseDetails": "Stage"
     },
     "metrics": {},
-    "whyInvest": ""
+    "whyInvest": "Clever MCP-server approach to injecting tribal knowledge into AI coding workflows solves a problem every engineering team hits once they adopt AI coding agents: \"why did we do it this way?\" FDOTinc Canopy backing provides early distribution."
   },
   {
     "id": "microfactory",
@@ -381,7 +381,7 @@
       "raiseDetails": "Stage"
     },
     "metrics": {},
-    "whyInvest": ""
+    "whyInvest": "$5K tabletop manufacturing kit with AI learning by demonstration is a category creator — TechCrunch coverage and $1.5M pre-seed validate the concept, and capital-light localized production at this price point has massive global expansion potential."
   },
   {
     "id": "remster",
@@ -412,6 +412,6 @@
       "raiseDetails": "Stage"
     },
     "metrics": {},
-    "whyInvest": ""
+    "whyInvest": "Founder relocated from India to SF for FDOTinc — rare grit signal. AI-native sleep tech with temperature, light, and aroma automation hits a massive consumer wellness market. Pre-revenue but the hardware wedge is defensible if the product delivers."
   }
 ]

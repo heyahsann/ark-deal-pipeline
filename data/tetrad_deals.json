@@ -1,0 +1,82 @@
+[
+  {
+    "founder_name": "Maya Chen",
+    "company": "VoxAgent",
+    "score": 9,
+    "raw_signal": "Voice AI agent for restaurant phone orders. Launched beta in SF, 50+ restaurants signed up in first month. Pre-seed, raising $1.5M.",
+    "location": "San Francisco, CA",
+    "region": "US",
+    "sectors": [
+      "Voice AI"
+    ],
+    "linkedin_url": "https://www.linkedin.com/in/mayachen",
+    "company_website": "https://voxagent.ai",
+    "crunchbase_url": "https://www.crunchbase.com/organization/voxagent",
+    "pitchbook_url": "",
+    "background_summary": "Former product lead at OpenAI voice team. 6 years in speech recognition and NLP. Stanford CS grad."
+  },
+  {
+    "founder_name": "Lukas Weber",
+    "company": "SynthSource",
+    "score": 8,
+    "raw_signal": "Building AI-native data synthesis for enterprise ML teams. Just raised €1.2M pre-seed. Based in Berlin, team of 5, hiring engineers.",
+    "location": "Berlin, Germany",
+    "region": "EU/UK",
+    "sectors": [
+      "AI Agents"
+    ],
+    "linkedin_url": "https://www.linkedin.com/in/lukasweber",
+    "company_website": "https://synthsource.ai",
+    "crunchbase_url": "https://www.crunchbase.com/organization/synthsource",
+    "pitchbook_url": "",
+    "background_summary": "Ex-Google ML engineer, 8 years in data infrastructure. Founded and sold previous startup to DataDog."
+  },
+  {
+    "founder_name": "Omar Hassan",
+    "company": "HealthPulse",
+    "score": 8,
+    "raw_signal": "AI-powered remote patient monitoring platform for chronic care. NHS pilot underway, team of 8 in London. Raising £2M seed.",
+    "location": "London, UK",
+    "region": "EU/UK",
+    "sectors": [
+      "Health Tech"
+    ],
+    "linkedin_url": "https://www.linkedin.com/in/omarhassan",
+    "company_website": "https://healthpulse.io",
+    "crunchbase_url": "https://www.crunchbase.com/organization/healthpulse",
+    "pitchbook_url": "",
+    "background_summary": "NHS-trained physician turned entrepreneur.曾任 NHS 临床主任, founded digital health startup acquired by Babylon Health."
+  },
+  {
+    "founder_name": "Rashid Al Noori",
+    "company": "PayFi",
+    "score": 7,
+    "raw_signal": "Stablecoin-based cross-border payment infrastructure for MENA SMEs. Processing $500K monthly, team of 6 in Dubai. Pre-seed.",
+    "location": "Dubai, UAE",
+    "region": "MENA",
+    "sectors": [
+      "Fintech"
+    ],
+    "linkedin_url": "https://www.linkedin.com/in/rashidalnoori",
+    "company_website": "https://payfi.io",
+    "crunchbase_url": "https://www.crunchbase.com/organization/payfi",
+    "pitchbook_url": "",
+    "background_summary": "Ex-Stripe and Careem payments lead. 10 years in MENA fintech. MBA from London Business School."
+  },
+  {
+    "founder_name": "Sofia Reyes",
+    "company": "Campo",
+    "score": 7,
+    "raw_signal": "Amateur sports league management platform for LATAM. 200+ leagues onboarded across Brazil and Mexico. Seed stage, raising $1M.",
+    "location": "São Paulo, Brazil",
+    "region": "LATAM",
+    "sectors": [
+      "Amateur Sports"
+    ],
+    "linkedin_url": "https://www.linkedin.com/in/sofiareyes",
+    "company_website": "https://campo.app",
+    "crunchbase_url": "https://www.crunchbase.com/organization/campo",
+    "pitchbook_url": "",
+    "background_summary": "Former product manager at Gympass. Played professional football in Brazil. Stanford GSB MBA."
+  }
+]

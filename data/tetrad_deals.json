@@ -3,7 +3,7 @@
     "founder_name": "Zhasulan Serikbek",
     "company": "KodHau",
     "score": 7,
-    "raw_signal": "MCP server that injects tribal knowledge from GitHub PR history into AI coding workflows. Got into @fdotinc Canopy. Pre-seed, building in SF.",
+    "raw_signal": "MCP server that injects tribal knowledge from GitHub PR history into AI coding workflows. Got into @fdotinc Canopy. Product Hunt launch. Pre-seed, building in SF.",
     "location": "San Francisco, CA",
     "region": "US",
     "sectors": [
@@ -15,13 +15,13 @@
     "company_website": "https://www.kodhau.com",
     "crunchbase_url": "",
     "pitchbook_url": "",
-    "background_summary": "17-year-old founder from Kazakhstan building in SF. fdotinc Canopy participant. Product Hunt launch, YouTube demo. Pre-seed, pre-revenue."
+    "background_summary": "17-year-old founder from Kazakhstan building in SF. fdotinc Canopy participant. Product Hunt launch with YouTube demo. Pre-seed, pre-revenue."
   },
   {
     "founder_name": "Pavan Kumar",
     "company": "Clean (tryclean.ai)",
     "score": 7,
-    "raw_signal": "Building Clean Agent at tryclean.ai — AI that automates everything outside of coding. 7x hackathon winner, building at @fdotinc in SF. Launched v2, onboarding customers.",
+    "raw_signal": "Building Clean Agent — AI that automates everything outside of coding. 7x hackathon winner, building at @fdotinc in SF. Launched v2 with paying customers.",
     "location": "San Francisco, CA",
     "region": "US",
     "sectors": [
@@ -29,17 +29,17 @@
       "B2B SaaS"
     ],
     "x_handle": "PavanKumarNY",
-    "linkedin_url": "",
+    "linkedin_url": "https://www.linkedin.com/in/pavankumarny",
     "company_website": "https://tryclean.ai",
     "crunchbase_url": "",
     "pitchbook_url": "",
-    "background_summary": "Builder at fdotinc campus in SF. 7x hackathon winner. Launched Clean v2 with paying customers. Building AI agents for non-coding workflows."
+    "background_summary": "Builder at fdotinc campus in SF. 7x hackathon winner. Ex-Cisco, Cliqk. Launched Clean v2 with paying customers. 18 years old."
   },
   {
     "founder_name": "Giulio",
     "company": "AI Design Platform for Games",
-    "score": 7,
-    "raw_signal": "Got accepted into @fdotinc Canopy! Building the AI design platform for game developers. 17.8K+ users in one month since launch. Pre-seed.",
+    "score": 8,
+    "raw_signal": "Got accepted into @fdotinc Canopy! Building the AI design platform for game developers. 17.8K+ users in one month. Now at .8K+ MRR. Pre-seed.",
     "location": "San Francisco, CA",
     "region": "US",
     "sectors": [
@@ -50,6 +50,60 @@
     "company_website": "",
     "crunchbase_url": "",
     "pitchbook_url": "",
-    "background_summary": "fdotinc Canopy participant. 17.8K+ users in first month for AI game design platform. Strong early traction signal."
+    "background_summary": "fdotinc Canopy participant. 17.8K+ users in first month, now at .8K+ MRR. AI-native design tools for game developers. Exceptional early traction."
+  },
+  {
+    "founder_name": "CJ Simon-Gabriel",
+    "company": "Mirelo",
+    "score": 8,
+    "raw_signal": "Berlin-based Mirelo raised 1M seed led by Index Ventures and a16z. AI-generated video sound — ML-generated audio synced to video. PhD-founder team from AWS Labs.",
+    "location": "Berlin, Germany",
+    "region": "EU/UK",
+    "sectors": [
+      "AI & Interfaces",
+      "B2B SaaS"
+    ],
+    "x_handle": "",
+    "linkedin_url": "https://de.linkedin.com/in/cjsimongabriel",
+    "company_website": "https://www.mirelo.ai",
+    "crunchbase_url": "https://www.crunchbase.com/organization/mirelo-ai",
+    "pitchbook_url": "",
+    "background_summary": "CJ Simon-Gabriel is co-founder and CEO. PhD in ML from Max Planck Society, ex-AWS Labs. Co-founder Florian Wenzel (CTO) also ex-AWS Labs AI researcher."
+  },
+  {
+    "founder_name": "Nicolas Camhi",
+    "company": "Vambe",
+    "score": 8,
+    "raw_signal": "Vambe grew ARR from 0K to M in 8 months. Raised .85M seed then 4M Series A. AI conversational commerce platform for LATAM B2C. WhatsApp-native.",
+    "location": "Chile / Mexico",
+    "region": "LATAM",
+    "sectors": [
+      "B2B SaaS",
+      "AI & Interfaces"
+    ],
+    "x_handle": "",
+    "linkedin_url": "https://www.linkedin.com/company/vambeai",
+    "company_website": "https://vambeai.com",
+    "crunchbase_url": "https://www.crunchbase.com/organization/vambe",
+    "pitchbook_url": "https://pitchbook.com/profiles/company/608774-86",
+    "background_summary": "Nicolas Camhi, Chilean founder. UC Berkeley SCET affiliated. Building AI-native conversational commerce for LATAM B2C. Strong GTM via WhatsApp distribution."
+  },
+  {
+    "founder_name": "Ricardo Flores",
+    "company": "MiChamba",
+    "score": 7,
+    "raw_signal": "MiChamba raised .25M pre-seed. Turns WhatsApp into a digital management platform. AI-native agent streamlining business operations — no retraining needed.",
+    "location": "Mexico",
+    "region": "LATAM",
+    "sectors": [
+      "Future of Work",
+      "AI & Interfaces"
+    ],
+    "x_handle": "",
+    "linkedin_url": "https://www.linkedin.com/company/michambaai",
+    "company_website": "https://www.michamba.ai",
+    "crunchbase_url": "",
+    "pitchbook_url": "",
+    "background_summary": "Ricardo Flores, co-founder. AI/ops team. MiChamba turns WhatsApp into a digital operations platform. .25M pre-seed. 977+ LinkedIn followers."
   }
 ]

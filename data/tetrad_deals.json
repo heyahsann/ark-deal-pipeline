@@ -1,53 +1,87 @@
 [
   {
-    "founder_name": "Iris Anson",
-    "company": "Etiq AI",
+    "founder_name": "CJ Simon-Gabriel",
+    "company": "Mirelo",
     "score": 8,
-    "raw_signal": "London-based Etiq AI raised £765K seed led by GapMinder VC. AI platform for debugging ML models — helps data scientists audit and test machine learning models in production.",
-    "location": "London, UK",
+    "raw_signal": "Berlin-based Mirelo raised 1M seed led by Index Ventures and a16z. AI-generated video sound — uses ML to generate audio that syncs with video content automatically.",
+    "location": "Berlin, Germany",
     "region": "EU/UK",
+    "sectors": [
+      "AI & Interfaces",
+      "B2B SaaS"
+    ],
+    "linkedin_url": "https://de.linkedin.com/in/cjsimongabriel",
+    "company_website": "https://www.mirelo.ai",
+    "crunchbase_url": "https://www.crunchbase.com/organization/mirelo-ai",
+    "pitchbook_url": "",
+    "background_summary": "CJ Simon-Gabriel (Carl Johann) is co-founder and CEO. PhD in ML from Max Planck Society, previously at AWS Labs. Co-founder Florian Wenzel is CTO, also ex-AWS Labs AI researcher."
+  },
+  {
+    "founder_name": "Nicolas Camhi",
+    "company": "Vambe",
+    "score": 8,
+    "raw_signal": "Vambe grew ARR from 0K to M in 8 months. Raised .85M seed then 4M Series A. AI conversational commerce platform for LATAM B2C companies. WhatsApp-native sales and support automation.",
+    "location": "Latin America (Chile/Mexico)",
+    "region": "LATAM",
     "sectors": [
       "B2B SaaS",
       "AI & Interfaces"
     ],
-    "linkedin_url": "https://www.linkedin.com/in/irisanson",
-    "company_website": "https://www.etiq.ai",
-    "crunchbase_url": "https://www.crunchbase.com/organization/etiq-ai",
-    "pitchbook_url": "",
-    "background_summary": "Iris Anson co-founded Etiq AI as CEO. Trained as an accountant/tax advisor in the hedge fund industry before transitioning to AI entrepreneurship. Co-founder Raluca Crisan."
+    "linkedin_url": "https://www.linkedin.com/company/vambeai",
+    "company_website": "https://vambeai.com",
+    "crunchbase_url": "https://www.crunchbase.com/organization/vambe",
+    "pitchbook_url": "https://pitchbook.com/profiles/company/608774-86",
+    "background_summary": "Nicolas Camhi is co-founder of Vambe AI. Chilean founder, UC Berkeley SCET affiliated. Building AI-native conversational commerce for LATAM B2C businesses."
   },
   {
-    "founder_name": "Kristian Lukauskis",
-    "company": "ChatBlu",
-    "score": 7,
-    "raw_signal": "ChatBlu raised 00K pre-seed led by Matador VC. Building AI agents for the hospitality industry — helping hotels recover abandoned bookings, reduce waste, and automate guest operations. Recently pivoted from e-commerce to hospitality.",
-    "location": "London, UK / Miami, FL",
-    "region": "EU/UK",
+    "founder_name": "Ricardo Flores",
+    "company": "MiChamba",
+    "score": 8,
+    "raw_signal": "Mexican startup MiChamba raised .25M pre-seed to turn WhatsApp into a digital management platform. AI-native agent that lets businesses streamline operations without retraining employees.",
+    "location": "Mexico",
+    "region": "LATAM",
     "sectors": [
-      "AI Agents",
-      "B2B SaaS"
+      "Future of Work",
+      "AI & Interfaces"
     ],
-    "linkedin_url": "https://www.linkedin.com/company/chatblu-ai",
-    "company_website": "https://chatblu.ai",
-    "crunchbase_url": "https://www.crunchbase.com/organization/chatblu-ai",
+    "linkedin_url": "https://www.linkedin.com/company/michambaai",
+    "company_website": "https://www.michamba.ai",
+    "crunchbase_url": "",
     "pitchbook_url": "",
-    "background_summary": "Founded by Kristian Lukauskis (CEO) and Alexander Dillon (COO). Kristian is the youngest Florida-born founder to raise 00K+ for a startup. CTO Sairam Vangapally is ex-Amazon and Shutterfly. Team also includes CSO Simon Kappeli and ex-Meta/Apple designer Jacqualyn Heth."
+    "background_summary": "Ricardo Flores is co-founder of MiChamba. Team has experience in AI and operations. MiChamba turns WhatsApp into a digital operations platform for businesses."
   },
   {
-    "founder_name": "Hendrik Halbe",
-    "company": "Tower",
+    "founder_name": "Leopold Spenner",
+    "company": "Alcemy",
     "score": 7,
-    "raw_signal": "Berlin-based Tower raised .4M pre-seed and seed to reshape data engineering in the AI era. Building an AI-native data engineering platform. Founded by ex-Snowflake engineers.",
+    "raw_signal": "Alcemy uses AI to optimize concrete mixing — reducing CO2 emissions while maintaining quality. Berlin-based, founded 2018. B2B SaaS for the construction materials industry.",
     "location": "Berlin, Germany",
     "region": "EU/UK",
     "sectors": [
       "B2B SaaS",
       "AI & Interfaces"
     ],
-    "linkedin_url": "https://www.linkedin.com/in/hendrikhalbe",
-    "company_website": "https://tower.dev",
-    "crunchbase_url": "https://www.crunchbase.com/organization/tower-dev",
+    "linkedin_url": "https://www.linkedin.com/in/leospenner",
+    "company_website": "https://alcemy.tech",
+    "crunchbase_url": "",
     "pitchbook_url": "",
-    "background_summary": "Hendrik Halbe is a Harvard Business School alum with startup-building experience. Co-founded by ex-Snowflake engineers. Raised €5.5M/.4M in pre-seed and seed funding in Berlin."
+    "background_summary": "Leopold Spenner is Co-Founder/CEO. Background in cement industry and ML (Flixbus ML group). PhD-level AI expertise applied to industrial decarbonization."
+  },
+  {
+    "founder_name": "Robert Meyer",
+    "company": "Alcemy",
+    "score": 7,
+    "raw_signal": "Alcemy co-founder Robert Meyer (CTO). PhD in Neuroinformatics, ex-FlixBus ML team lead. AI for concrete mix optimization and carbon reduction.",
+    "location": "Berlin, Germany",
+    "region": "EU/UK",
+    "sectors": [
+      "B2B SaaS",
+      "AI & Interfaces"
+    ],
+    "linkedin_url": "https://de.linkedin.com/in/robert-meyer-alcemy",
+    "company_website": "https://alcemy.tech",
+    "crunchbase_url": "https://www.crunchbase.com/person/robert-meyer-2d20",
+    "pitchbook_url": "",
+    "background_summary": "Robert Meyer holds a PhD in Neuroinformatics. Previously Data Scientist and ML team lead at FlixBus. Co-founder and CTO at alcemy, using AI to reduce cement/concrete carbon footprint."
   }
 ]

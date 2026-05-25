@@ -245,40 +245,51 @@
   {
     "id": "chatblu",
     "company": "ChatBlu",
-    "tagline": "Autonomous AI agent for multi-platform e-commerce inventory management",
-    "description": "AI agent that lets e-commerce sellers manage inventory across Shopify, Amazon, Etsy, and WooCommerce via natural language commands. Syncs listings, manages stock, adjusts pricing autonomously. No manual backend work — just tell it what you want done.",
+    "tagline": "AI Agents for Hotels",
+    "description": "AI agents that help hotels recover abandoned bookings, reduce food waste, automate guest inquiries, and fix broken operational handoffs. Replaces outdated legacy systems with conversational AI across front-of-house and back-of-house operations. Enterprise platform priced at $50K–$360K per hotel per year.",
     "stage": "Seed",
     "status": "Tracking",
     "conviction": "Medium",
     "category": [
       "AI Agents",
-      "E-commerce",
-      "Inventory Ops"
+      "Hospitality"
     ],
-    "location": "Miami, FL / London, UK",
+    "location": "Miami, FL",
     "founders": [
       {
         "name": "Kristian Lukauskis",
-        "role": "Co-Founder, Miami"
+        "role": "CEO"
       },
       {
         "name": "Alexander Dillon",
-        "role": "Co-Founder, London"
+        "role": "COO"
       },
       {
         "name": "Sairam Vangapally",
         "role": "CTO, ex-Amazon & Shutterfly"
+      },
+      {
+        "name": "Simon Kappeli",
+        "role": "CSO"
+      },
+      {
+        "name": "Romeo Alting",
+        "role": "Partnerships"
+      },
+      {
+        "name": "Jacqualyn Heth",
+        "role": "UI/UX, ex-Meta & Apple"
       }
     ],
-    "website": "https://chatblu-ai.com",
+    "website": "https://chatblu.ai",
     "linkedin": "",
     "email": "",
     "source": "Pitch deck via shared link",
     "firstContact": "2026-05",
-    "nextAction": "Review full seed deck · confirm post-launch traction",
-    "accelerator": "Genoa Entrepreneurship School",
+    "nextAction": "Review seed deck & financial model · set up intro call",
+    "accelerator": "",
     "generalInfo": {
-      "raiseDetails": "Post-launch customers; ARR; Seed round size & terms",
+      "raiseDetails": "Raising $4M seed to expand sales & dev ops. Goal: onboard 38 hotels, reach $2.8M ARR in 18 months.",
       "previousInvestors": [
         "Matador VC",
         "Google angels",
@@ -286,9 +297,11 @@
       ]
     },
     "metrics": {
-      "traction": "$500K pre-seed closed Aug 2025 · Matador VC + Google/AWS angels · launched Sept 2025"
+      "traction": "$500K pre-seed (Aug 2025) · enterprise plan launched May 2026 · 2 pilots signed at $200K ARR (Dominica)",
+      "revenue": "$200K ARR (2 pilots)",
+      "healthIndicators": "38-hotel pipeline target · $2.8M ARR goal in 18mo · $50K-$360K per-hotel contract value"
     },
-    "whyInvest": "$500K pre-seed from Matador VC + Google/AWS angels, three co-founders with Amazon/Shutterfly CTO pedigree, and already post-launch. Multi-platform e-commerce inventory is a high-frequency pain with clear willingness to pay and a massive merchant TAM."
+    "whyInvest": "Pivoted from e-commerce to hospitality AI agents — a $10B+ booking abandonment + $100B waste market. $200K ARR from 2 pilots within 2 weeks of enterprise launch, $50K-$360K per-hotel contracts. Raising $4M seed with credible team (Amazon/Shutterfly/Meta/Apple pedigree) and clear 18-month path to $2.8M ARR."
   },
   {
     "id": "clayzo",
@@ -481,5 +494,334 @@
       "traction": "Featured in GrepBeat (Aug 2025). NC IDEA grant recipient. Active website with pricing page. LinkedIn content engagement."
     },
     "whyInvest": "AI-native fundraising automation addresses a universal founder pain point in a large TAM — Charlotte's deep domain expertise in fundraising and SF location give her distribution advantage in the startup ecosystem."
+  },
+  {
+    "id": "unknown-ai-marketer",
+    "company": "Unknown (AI marketer)",
+    "tagline": "Huge news: we've raised $1.2M to build the first AI marketer that acts like a human.",
+    "description": "Astral is an AI marketing startup that has built an autonomous AI agent capable of browsing the internet, finding potential customers, and engaging with them in a human-like manner. The company's technology is designed to automate marketing tasks on platforms like Reddit and LinkedIn, generating promotional comments and interactions. Its AI-native angle is its ability to act as a 'first AI marketer' that mimics human behavior, raising both excitement and ethical concerns about spam. The company raised $1.2M to develop and launch this product.",
+    "stage": "Pre-seed",
+    "status": "Tracking",
+    "conviction": "Medium",
+    "category": [
+      "AI Agents"
+    ],
+    "location": "",
+    "founders": [
+      {
+        "name": "Savannah Feder",
+        "role": "Founder & CEO"
+      }
+    ],
+    "website": "https://www.prnewswire.com/news-releases/head-worlds-first-ai-marketer-sparks-frenzy-spots-filled-instantly-302461651.html",
+    "linkedin": "https://www.linkedin.com/in/savannahfeder",
+    "email": "",
+    "source": "ai-deal-sourcer pipeline (Savannah Feder/Unknown (AI marketer), score: 8/10)",
+    "firstContact": "2026-05",
+    "nextAction": "Initial outreach drafted via pipeline",
+    "generalInfo": {
+      "isRaising": "No",
+      "raiseAmount": "$1.2M",
+      "raiseDetails": "Raised $1.2M, announced publicly in April 2025. No specific lead investor mentioned."
+    },
+    "metrics": {
+      "traction": "The company's initial access spots for its AI marketer (named 'Head') were filled almost instantly upon unveiling, generating significant media buzz and user demand. The company has also raised $1.2M in funding.",
+      "healthIndicators": "Initial access spots filled instantly upon launch, indicating strong early demand."
+    },
+    "whyInvest": "Astral's defensibility lies in its first-mover advantage as the first AI marketer that acts like a human, combined with its ability to autonomously engage across platforms, though ethical and platform-compliance risks remain."
+  },
+  {
+    "id": "usemoney-ai",
+    "company": "useMoney AI",
+    "tagline": "Sent you a DM @hthieblot. Building @usemoneyAI - AI copilot for ...",
+    "description": "UseMoney AI is an AI-powered investment platform that brings institutional-grade portfolio analytics to retail investors in India. It unifies holdings across 7+ brokers (Zerodha, Upstox, Groww, Angel One, Dhan, Fyers, Interactive Brokers), delivers deep stock and mutual fund research through autonomous AI agents, and provides tools for FIRE planning, risk analysis, tax optimization, and paper trading. The AI-native angle lies in using autonomous agents to automate research and portfolio analysis, making sophisticated tools accessible to retail investors.",
+    "stage": "Pre-seed",
+    "status": "Tracking",
+    "conviction": "Medium",
+    "category": [
+      "AI Agents"
+    ],
+    "location": "India",
+    "founders": [
+      {
+        "name": "Shaswat Deep",
+        "role": "Founder & CEO"
+      }
+    ],
+    "website": "https://news.ycombinator.com/item?id=47909866",
+    "linkedin": "https://in.linkedin.com/company/usemoney",
+    "email": "",
+    "source": "ai-deal-sourcer pipeline (Shaswat Deep/useMoney AI, score: 8/10)",
+    "firstContact": "2026-05",
+    "nextAction": "Initial outreach drafted via pipeline",
+    "generalInfo": {
+      "isRaising": "Unknown"
+    },
+    "metrics": {
+      "traction": "Listed on Hacker News (Show HN). Hiring for software engineering intern. Active social media presence (X, Instagram). No disclosed user or revenue numbers."
+    },
+    "whyInvest": "UseMoney AI's defensibility lies in its AI-native autonomous agents that unify brokerage data and deliver institutional-grade analytics to India's growing retail investor base, creating a sticky platform with potential for network effects and data moats."
+  },
+  {
+    "id": "unknown",
+    "company": "Unknown",
+    "tagline": "Building with Claude AI: A Complete Guide to Text Summarizers and... Building with Claude AI opens up exciting possibili",
+    "description": "This lead appears to be an individual exploring or building a text summarizer or image describer application using Claude AI. The signal lacks a defined company name, founder identity, or business structure, making it a pre-company or solo developer project.",
+    "stage": "Pre-seed",
+    "status": "Tracking",
+    "conviction": "Medium",
+    "category": [
+      "AI Agents"
+    ],
+    "location": "",
+    "founders": [
+      {
+        "name": "Unverified - needs manual check",
+        "role": "Founder & CEO"
+      }
+    ],
+    "website": "",
+    "linkedin": "https://www.linkedin.com/pulse/building-claude-ai-complete-guide-text-summarizers-image-kaushik-iyer-r9vqc",
+    "email": "",
+    "source": "ai-deal-sourcer pipeline (Unverified - needs manual check/Unknown, score: 7/10)",
+    "firstContact": "2026-05",
+    "nextAction": "Initial outreach drafted via pipeline",
+    "generalInfo": {
+      "isRaising": "Unknown"
+    },
+    "metrics": {
+      "traction": "No traction signals (users, revenue, partnerships) are available from the search results."
+    },
+    "whyInvest": "No defensibility can be assessed without a clear business model, team, or traction."
+  },
+  {
+    "id": "just-launched",
+    "company": "Just Launched",
+    "tagline": "Product hunt but only one featured product a day | Just Launched is a clean and simple alternative to startup indexes li",
+    "description": "Just Launched is a clean and simple alternative to startup indexes like Product Hunt, BetaList, and BetaPage. The platform features only one new product per day, allowing readers to dive deeper into each product and eliminating competition for makers. It was launched on Product Hunt on April 14, 2022.",
+    "stage": "Pre-seed",
+    "status": "Tracking",
+    "conviction": "Medium",
+    "category": [
+      "AI Agents"
+    ],
+    "location": "",
+    "founders": [
+      {
+        "name": "Unverified - needs manual check",
+        "role": "Founder & CEO"
+      }
+    ],
+    "website": "https://www.producthunt.com/products/just-launched-2",
+    "linkedin": "",
+    "email": "",
+    "source": "ai-deal-sourcer pipeline (Unverified - needs manual check/Just Launched, score: 7/10)",
+    "firstContact": "2026-05",
+    "nextAction": "Initial outreach drafted via pipeline",
+    "generalInfo": {
+      "isRaising": "Unknown"
+    },
+    "metrics": {
+      "traction": "Listed on Product Hunt as a product itself; launched in April 2022. No additional user or revenue traction signals found in search results."
+    },
+    "whyInvest": "Just Launched differentiates by curating a single daily featured product, reducing noise for users and providing makers with undivided attention, potentially building a loyal, niche community in the competitive startup discovery space."
+  },
+  {
+    "id": "just-launch-it",
+    "company": "Just Launch It",
+    "tagline": "A SvelteKit boilerplate with everything you need to build and launch your product and get it to customers. From idea to ",
+    "description": "Just Launch It is a fully loaded SvelteKit boilerplate designed to accelerate the development and launch of SaaS, AI, or web startups. It provides entrepreneurs with a handcrafted tech stack curated from over a decade of experience, enabling them to go from idea to product in 5 minutes by skipping repetitive setup work.",
+    "stage": "Pre-seed",
+    "status": "Tracking",
+    "conviction": "Medium",
+    "category": [
+      "AI Agents"
+    ],
+    "location": "",
+    "founders": [
+      {
+        "name": "Unverified - needs manual check",
+        "role": "Founder & CEO"
+      }
+    ],
+    "website": "https://www.justlaunch.it/",
+    "linkedin": "",
+    "email": "",
+    "source": "ai-deal-sourcer pipeline (Unverified - needs manual check/Just Launch It, score: 7/10)",
+    "firstContact": "2026-05",
+    "nextAction": "Initial outreach drafted via pipeline",
+    "generalInfo": {
+      "isRaising": "Unknown"
+    },
+    "metrics": {
+      "traction": "Listed on Product Hunt (October 2025) and Sourceforge with positive reviews. The platform offers free submission for SaaS validation services, but no specific user numbers or revenue data are available.",
+      "healthIndicators": "Active Product Hunt launch (October 2025) and multiple online mentions indicate steady operational presence."
+    },
+    "whyInvest": "Just Launch It's defensibility lies in its specialized, time-saving SvelteKit boilerplate for rapid SaaS/AI development, addressing a clear market need to accelerate MVP launches, though lack of founder transparency and traction data limits near-term investment readiness."
+  },
+  {
+    "id": "dotted",
+    "company": "Dotted",
+    "tagline": "Dotted is the company brain that tells executives what's happening and what decision comes next, so AI-accelerated teams",
+    "description": "Dotted is an AI-driven women's reproductive health platform that uses clinical-grade symptom tracking to generate reports for early intervention and diagnosis of conditions like PCOS, endometriosis, and fibroids. The platform is designed to close diagnostic gaps and help users navigate healthcare with data-driven insights.",
+    "stage": "Pre-seed",
+    "status": "Tracking",
+    "conviction": "Medium",
+    "category": [
+      "AI Agents"
+    ],
+    "location": "Dallas-Fort Worth, TX",
+    "founders": [
+      {
+        "name": "Dejanae Parkman",
+        "role": "Founder & CEO"
+      }
+    ],
+    "website": "https://dottedhq.com/about",
+    "linkedin": "https://www.linkedin.com/in/dejanae-parkman",
+    "email": "",
+    "source": "ai-deal-sourcer pipeline (Dejanae Parkman/Dotted, score: 7/10)",
+    "firstContact": "2026-05",
+    "nextAction": "Initial outreach drafted via pipeline",
+    "generalInfo": {
+      "isRaising": "Unknown"
+    },
+    "metrics": {
+      "traction": "Named Social Innovator of the Year by United Way (2026), featured in D Magazine and SHOUTOUT DFW. The platform is gaining attention in women's health and health-tech communities."
+    },
+    "whyInvest": "Dotted addresses a massive market gap in women's diagnostic healthcare with a founder who has deep domain expertise and personal lived experience, validated by early awards and media recognition, creating a defensible position in the reproductive health AI space."
+  },
+  {
+    "id": "tesana",
+    "company": "Tesana",
+    "tagline": "building Tesana, an AI game builder. you describe a game, AI builds it, fully playable. just launched a creator earn pro",
+    "description": "Tesana is an AI-native game creation platform that allows users to describe a game in natural language, and the AI builds a fully playable game. It has launched a creator earn program where builders are paid for views and plays. The company's Muranyi 2 model is claimed to be the first end-to-end AI game engine, positioning it as a pioneering tool for democratizing game development.",
+    "stage": "Pre-seed",
+    "status": "Tracking",
+    "conviction": "Medium",
+    "category": [
+      "AI Agents"
+    ],
+    "location": "",
+    "founders": [
+      {
+        "name": "Unverified - needs manual check",
+        "role": "Founder & CEO"
+      }
+    ],
+    "website": "https://tech.yahoo.com/gaming/articles/ai-startup-envisions-100-million-215753709.html",
+    "linkedin": "",
+    "email": "",
+    "source": "ai-deal-sourcer pipeline (Unverified - needs manual check/Tesana, score: 7/10)",
+    "firstContact": "2026-05",
+    "nextAction": "Initial outreach drafted via pipeline",
+    "generalInfo": {
+      "isRaising": "Unknown"
+    },
+    "metrics": {
+      "traction": "Launched a creator earn program where builders get paid for views and plays. The platform is available on the App Store. An article from April 2026 indicates the startup envisions '100 million new people' making games, suggesting early traction or a strong vision."
+    },
+    "whyInvest": "Tesana's first-mover advantage with an end-to-end AI game engine (Muranyi 2) and a creator monetization model could disrupt game development by making it accessible to non-coders, riding the wave of generative AI adoption in entertainment."
+  },
+  {
+    "id": "unknown-cursor-for-video-editing",
+    "company": "Unknown (Cursor for video editing)",
+    "tagline": "So we built Cursor for video editing • upload 10min of raw footage ...",
+    "description": "This lead describes a stealth AI startup founded by Michael Truell (co-founder and CEO of Anysphere, the creator of Cursor) that is building 'Cursor for video editing'. The concept enables users to upload raw footage and leverage AI to accelerate the editing process, akin to how Cursor does for coding. The company is highly associated with Truell's proven track record and aims to apply AI-native code-generation principles to video creation and post-production.",
+    "stage": "Pre-seed",
+    "status": "Tracking",
+    "conviction": "Medium",
+    "category": [
+      "AI Agents"
+    ],
+    "location": "Unknown",
+    "founders": [
+      {
+        "name": "Michael Truell",
+        "role": "Founder & CEO"
+      }
+    ],
+    "website": "https://www.youtube.com/watch?v=En5cSXgGvZM",
+    "linkedin": "",
+    "email": "",
+    "source": "ai-deal-sourcer pipeline (Michael Truell/Unknown (Cursor for video editing), score: 7/10)",
+    "firstContact": "2026-05",
+    "nextAction": "Initial outreach drafted via pipeline",
+    "generalInfo": {
+      "isRaising": "Unknown"
+    },
+    "metrics": {
+      "traction": "No public traction metrics available (stealth startup). Cursor itself has $300M ARR and 4M+ users. The video editing vertical is unproven but leverages Truell's brand and network.",
+      "healthIndicators": "High founder pedigree (scaled Cursor to $300M ARR); no direct customer data available."
+    },
+    "whyInvest": "Moat: Founder-market fit with Michael Truell's proven AI product execution (Cursor's AI-native approach applied to video editing), combined with massive TAM and early mover advantage in AI-powered video creation."
+  },
+  {
+    "id": "unknown-stablecoin-neobank",
+    "company": "Unknown (Stablecoin neobank)",
+    "tagline": "We met them during buildspace and We backed them as the first investor. Congrats @jecastillof and @GinoGuatavita!",
+    "description": "Fasset is a Los Angeles-based stablecoin-powered neobank that enables cross-border payments for SMEs in emerging markets. It processes over $32 billion in annualized volume through more than 50 payment corridors across Asia, Africa, and the Middle East, serving 1,000+ businesses in 125 countries.",
+    "stage": "Pre-seed",
+    "status": "Tracking",
+    "conviction": "Medium",
+    "category": [
+      "AI Agents"
+    ],
+    "location": "Los Angeles, CA",
+    "founders": [
+      {
+        "name": "Mohammad Raafi Hossain",
+        "role": "Founder & CEO"
+      }
+    ],
+    "website": "https://www.fintechfutures.com/venture-capital-funding/fasset-51m-series-b",
+    "linkedin": "",
+    "email": "",
+    "source": "ai-deal-sourcer pipeline (Mohammad Raafi Hossain/Unknown (Stablecoin neobank), score: 7/10)",
+    "firstContact": "2026-05",
+    "nextAction": "Initial outreach drafted via pipeline",
+    "generalInfo": {
+      "isRaising": "No",
+      "raiseAmount": "$51M Series B",
+      "raiseDetails": "Led by SBI Group, with participation from Investcorp and Arz Portföy. Closed mid-2026."
+    },
+    "metrics": {
+      "traction": "$32B annualized volume processed; 1,000+ SME customers in 125 countries; raised $51M Series B.",
+      "revenue": "$32B annualized volume processed (revenue not disclosed)",
+      "healthIndicators": "1,000+ active SME clients in 125 countries; $32B annualized volume indicates strong retention and usage."
+    },
+    "whyInvest": "Fasset combines a regulated stablecoin infrastructure with Shariah-compliant banking, deep emerging-market payment corridors, and institutional backing (SBI Group) to create a defensible moat against both traditional fintechs and crypto-native competitors."
+  },
+  {
+    "id": "unknown-hardware-founder",
+    "company": "Unknown (hardware founder)",
+    "tagline": "if you're a hardware founder... there's no better place than @fdotinc apps ...",
+    "description": "",
+    "stage": "Pre-seed",
+    "status": "Tracking",
+    "conviction": "Medium",
+    "category": [
+      "AI Agents"
+    ],
+    "location": "",
+    "founders": [
+      {
+        "name": "Unverified - needs manual check",
+        "role": "Founder & CEO"
+      }
+    ],
+    "website": "https://www.youtube.com/watch?v=ON5vYVOY1FQ",
+    "linkedin": "",
+    "email": "",
+    "source": "ai-deal-sourcer pipeline (Unverified - needs manual check/Unknown (hardware founder), score: 7/10)",
+    "firstContact": "2026-05",
+    "nextAction": "Initial outreach drafted via pipeline",
+    "generalInfo": {
+      "isRaising": "Unknown"
+    },
+    "metrics": {
+      "traction": "No traction signals available."
+    },
+    "whyInvest": "No defensibility can be assessed due to lack of company, founder, or product details."
   }
 ]

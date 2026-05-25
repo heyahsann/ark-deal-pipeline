@@ -1,99 +1,53 @@
 [
   {
-    "founder_name": "Maya Chen",
-    "company": "VoxAgent",
-    "score": 9,
-    "raw_signal": "Voice AI agent for restaurant phone orders. Launched beta in SF, 50+ restaurants signed up in first month. Pre-seed, raising $1.5M.",
-    "location": "San Francisco, CA",
-    "region": "US",
-    "sectors": [
-      "Voice AI"
-    ],
-    "linkedin_url": "https://www.linkedin.com/in/mayachen",
-    "company_website": "https://voxagent.ai",
-    "crunchbase_url": "https://www.crunchbase.com/organization/voxagent",
-    "pitchbook_url": "",
-    "background_summary": "Former product lead at OpenAI voice team. 6 years in speech recognition and NLP. Stanford CS grad."
-  },
-  {
-    "founder_name": "Lukas Weber",
-    "company": "SynthSource",
+    "founder_name": "Iris Anson",
+    "company": "Etiq AI",
     "score": 8,
-    "raw_signal": "Building AI-native data synthesis for enterprise ML teams. Just raised €1.2M pre-seed. Based in Berlin, team of 5, hiring engineers.",
-    "location": "Berlin, Germany",
-    "region": "EU/UK",
-    "sectors": [
-      "AI Agents"
-    ],
-    "linkedin_url": "https://www.linkedin.com/in/lukasweber",
-    "company_website": "https://synthsource.ai",
-    "crunchbase_url": "https://www.crunchbase.com/organization/synthsource",
-    "pitchbook_url": "",
-    "background_summary": "Ex-Google ML engineer, 8 years in data infrastructure. Founded and sold previous startup to DataDog."
-  },
-  {
-    "founder_name": "Omar Hassan",
-    "company": "HealthPulse",
-    "score": 8,
-    "raw_signal": "AI-powered remote patient monitoring platform for chronic care. NHS pilot underway, team of 8 in London. Raising £2M seed.",
+    "raw_signal": "London-based Etiq AI raised £765K seed led by GapMinder VC. AI platform for debugging ML models — helps data scientists audit and test machine learning models in production.",
     "location": "London, UK",
     "region": "EU/UK",
     "sectors": [
-      "Health Tech"
+      "B2B SaaS",
+      "AI & Interfaces"
     ],
-    "linkedin_url": "https://www.linkedin.com/in/omarhassan",
-    "company_website": "https://healthpulse.io",
-    "crunchbase_url": "https://www.crunchbase.com/organization/healthpulse",
+    "linkedin_url": "https://www.linkedin.com/in/irisanson",
+    "company_website": "https://www.etiq.ai",
+    "crunchbase_url": "https://www.crunchbase.com/organization/etiq-ai",
     "pitchbook_url": "",
-    "background_summary": "NHS-trained physician turned entrepreneur.曾任 NHS 临床主任, founded digital health startup acquired by Babylon Health."
+    "background_summary": "Iris Anson co-founded Etiq AI as CEO. Trained as an accountant/tax advisor in the hedge fund industry before transitioning to AI entrepreneurship. Co-founder Raluca Crisan."
   },
   {
-    "founder_name": "Rashid Al Noori",
-    "company": "PayFi",
+    "founder_name": "Kristian Lukauskis",
+    "company": "ChatBlu",
     "score": 7,
-    "raw_signal": "Stablecoin-based cross-border payment infrastructure for MENA SMEs. Processing $500K monthly, team of 6 in Dubai. Pre-seed.",
-    "location": "Dubai, UAE",
-    "region": "MENA",
+    "raw_signal": "ChatBlu raised 00K pre-seed led by Matador VC. Building AI agents for the hospitality industry — helping hotels recover abandoned bookings, reduce waste, and automate guest operations. Recently pivoted from e-commerce to hospitality.",
+    "location": "London, UK / Miami, FL",
+    "region": "EU/UK",
     "sectors": [
-      "Fintech"
+      "AI Agents",
+      "B2B SaaS"
     ],
-    "linkedin_url": "https://www.linkedin.com/in/rashidalnoori",
-    "company_website": "https://payfi.io",
-    "crunchbase_url": "https://www.crunchbase.com/organization/payfi",
+    "linkedin_url": "https://www.linkedin.com/company/chatblu-ai",
+    "company_website": "https://chatblu.ai",
+    "crunchbase_url": "https://www.crunchbase.com/organization/chatblu-ai",
     "pitchbook_url": "",
-    "background_summary": "Ex-Stripe and Careem payments lead. 10 years in MENA fintech. MBA from London Business School."
+    "background_summary": "Founded by Kristian Lukauskis (CEO) and Alexander Dillon (COO). Kristian is the youngest Florida-born founder to raise 00K+ for a startup. CTO Sairam Vangapally is ex-Amazon and Shutterfly. Team also includes CSO Simon Kappeli and ex-Meta/Apple designer Jacqualyn Heth."
   },
   {
-    "founder_name": "Sofia Reyes",
-    "company": "Campo",
+    "founder_name": "Hendrik Halbe",
+    "company": "Tower",
     "score": 7,
-    "raw_signal": "Amateur sports league management platform for LATAM. 200+ leagues onboarded across Brazil and Mexico. Seed stage, raising $1M.",
-    "location": "São Paulo, Brazil",
-    "region": "LATAM",
+    "raw_signal": "Berlin-based Tower raised .4M pre-seed and seed to reshape data engineering in the AI era. Building an AI-native data engineering platform. Founded by ex-Snowflake engineers.",
+    "location": "Berlin, Germany",
+    "region": "EU/UK",
     "sectors": [
-      "Amateur Sports"
+      "B2B SaaS",
+      "AI & Interfaces"
     ],
-    "linkedin_url": "https://www.linkedin.com/in/sofiareyes",
-    "company_website": "https://campo.app",
-    "crunchbase_url": "https://www.crunchbase.com/organization/campo",
+    "linkedin_url": "https://www.linkedin.com/in/hendrikhalbe",
+    "company_website": "https://tower.dev",
+    "crunchbase_url": "https://www.crunchbase.com/organization/tower-dev",
     "pitchbook_url": "",
-    "background_summary": "Former product manager at Gympass. Played professional football in Brazil. Stanford GSB MBA."
-  },
-  {
-    "founder_name": "Lucas Marques",
-    "company": "Shiva",
-    "score": 7,
-    "raw_signal": "AI startup fund in Brazil — former COO of Méliuz raised 0M for AI-native venture building. Uses AI to help entrepreneurs create businesses from scratch. LATAM region.",
-    "location": "Brazil",
-    "region": "LATAM",
-    "sectors": [
-      "AI & Interfaces",
-      "Fintech"
-    ],
-    "linkedin_url": "https://www.linkedin.com/posts/businessinsider_brazilian-ai-startup-fund-shiva-raised-10-activity-7436843684232540160-9X6i",
-    "company_website": "",
-    "crunchbase_url": "https://www.crunchbase.com/organization/shiva",
-    "pitchbook_url": "",
-    "background_summary": "Lucas Marques is founder of Shiva and former COO of Méliuz, a Brazilian publicly traded company. Background as operator-turned-investor aligns with building an AI-native venture fund."
+    "background_summary": "Hendrik Halbe is a Harvard Business School alum with startup-building experience. Co-founded by ex-Snowflake engineers. Raised €5.5M/.4M in pre-seed and seed funding in Berlin."
   }
 ]

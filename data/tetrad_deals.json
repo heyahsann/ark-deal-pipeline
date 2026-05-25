@@ -78,5 +78,22 @@
     "crunchbase_url": "https://www.crunchbase.com/organization/campo",
     "pitchbook_url": "",
     "background_summary": "Former product manager at Gympass. Played professional football in Brazil. Stanford GSB MBA."
+  },
+  {
+    "founder_name": "Lucas Marques",
+    "company": "Shiva",
+    "score": 7,
+    "raw_signal": "AI startup fund in Brazil — former COO of Méliuz raised 0M for AI-native venture building. Uses AI to help entrepreneurs create businesses from scratch. LATAM region.",
+    "location": "Brazil",
+    "region": "LATAM",
+    "sectors": [
+      "AI & Interfaces",
+      "Fintech"
+    ],
+    "linkedin_url": "https://www.linkedin.com/posts/businessinsider_brazilian-ai-startup-fund-shiva-raised-10-activity-7436843684232540160-9X6i",
+    "company_website": "",
+    "crunchbase_url": "https://www.crunchbase.com/organization/shiva",
+    "pitchbook_url": "",
+    "background_summary": "Lucas Marques is founder of Shiva and former COO of Méliuz, a Brazilian publicly traded company. Background as operator-turned-investor aligns with building an AI-native venture fund."
   }
 ]

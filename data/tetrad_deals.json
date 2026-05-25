@@ -1,87 +1,55 @@
 [
   {
-    "founder_name": "CJ Simon-Gabriel",
-    "company": "Mirelo",
-    "score": 8,
-    "raw_signal": "Berlin-based Mirelo raised 1M seed led by Index Ventures and a16z. AI-generated video sound — uses ML to generate audio that syncs with video content automatically.",
-    "location": "Berlin, Germany",
-    "region": "EU/UK",
+    "founder_name": "Zhasulan Serikbek",
+    "company": "KodHau",
+    "score": 7,
+    "raw_signal": "MCP server that injects tribal knowledge from GitHub PR history into AI coding workflows. Got into @fdotinc Canopy. Pre-seed, building in SF.",
+    "location": "San Francisco, CA",
+    "region": "US",
     "sectors": [
       "AI & Interfaces",
       "B2B SaaS"
     ],
-    "linkedin_url": "https://de.linkedin.com/in/cjsimongabriel",
-    "company_website": "https://www.mirelo.ai",
-    "crunchbase_url": "https://www.crunchbase.com/organization/mirelo-ai",
-    "pitchbook_url": "",
-    "background_summary": "CJ Simon-Gabriel (Carl Johann) is co-founder and CEO. PhD in ML from Max Planck Society, previously at AWS Labs. Co-founder Florian Wenzel is CTO, also ex-AWS Labs AI researcher."
-  },
-  {
-    "founder_name": "Nicolas Camhi",
-    "company": "Vambe",
-    "score": 8,
-    "raw_signal": "Vambe grew ARR from 0K to M in 8 months. Raised .85M seed then 4M Series A. AI conversational commerce platform for LATAM B2C companies. WhatsApp-native sales and support automation.",
-    "location": "Latin America (Chile/Mexico)",
-    "region": "LATAM",
-    "sectors": [
-      "B2B SaaS",
-      "AI & Interfaces"
-    ],
-    "linkedin_url": "https://www.linkedin.com/company/vambeai",
-    "company_website": "https://vambeai.com",
-    "crunchbase_url": "https://www.crunchbase.com/organization/vambe",
-    "pitchbook_url": "https://pitchbook.com/profiles/company/608774-86",
-    "background_summary": "Nicolas Camhi is co-founder of Vambe AI. Chilean founder, UC Berkeley SCET affiliated. Building AI-native conversational commerce for LATAM B2C businesses."
-  },
-  {
-    "founder_name": "Ricardo Flores",
-    "company": "MiChamba",
-    "score": 8,
-    "raw_signal": "Mexican startup MiChamba raised .25M pre-seed to turn WhatsApp into a digital management platform. AI-native agent that lets businesses streamline operations without retraining employees.",
-    "location": "Mexico",
-    "region": "LATAM",
-    "sectors": [
-      "Future of Work",
-      "AI & Interfaces"
-    ],
-    "linkedin_url": "https://www.linkedin.com/company/michambaai",
-    "company_website": "https://www.michamba.ai",
+    "x_handle": "im_zhas",
+    "linkedin_url": "https://www.linkedin.com/in/zhasulan-serikbek",
+    "company_website": "https://www.kodhau.com",
     "crunchbase_url": "",
     "pitchbook_url": "",
-    "background_summary": "Ricardo Flores is co-founder of MiChamba. Team has experience in AI and operations. MiChamba turns WhatsApp into a digital operations platform for businesses."
+    "background_summary": "17-year-old founder from Kazakhstan building in SF. fdotinc Canopy participant. Product Hunt launch, YouTube demo. Pre-seed, pre-revenue."
   },
   {
-    "founder_name": "Leopold Spenner",
-    "company": "Alcemy",
+    "founder_name": "Pavan Kumar",
+    "company": "Clean (tryclean.ai)",
     "score": 7,
-    "raw_signal": "Alcemy uses AI to optimize concrete mixing — reducing CO2 emissions while maintaining quality. Berlin-based, founded 2018. B2B SaaS for the construction materials industry.",
-    "location": "Berlin, Germany",
-    "region": "EU/UK",
+    "raw_signal": "Building Clean Agent at tryclean.ai — AI that automates everything outside of coding. 7x hackathon winner, building at @fdotinc in SF. Launched v2, onboarding customers.",
+    "location": "San Francisco, CA",
+    "region": "US",
     "sectors": [
-      "B2B SaaS",
-      "AI & Interfaces"
+      "AI Agents",
+      "B2B SaaS"
     ],
-    "linkedin_url": "https://www.linkedin.com/in/leospenner",
-    "company_website": "https://alcemy.tech",
+    "x_handle": "PavanKumarNY",
+    "linkedin_url": "",
+    "company_website": "https://tryclean.ai",
     "crunchbase_url": "",
     "pitchbook_url": "",
-    "background_summary": "Leopold Spenner is Co-Founder/CEO. Background in cement industry and ML (Flixbus ML group). PhD-level AI expertise applied to industrial decarbonization."
+    "background_summary": "Builder at fdotinc campus in SF. 7x hackathon winner. Launched Clean v2 with paying customers. Building AI agents for non-coding workflows."
   },
   {
-    "founder_name": "Robert Meyer",
-    "company": "Alcemy",
+    "founder_name": "Giulio",
+    "company": "AI Design Platform for Games",
     "score": 7,
-    "raw_signal": "Alcemy co-founder Robert Meyer (CTO). PhD in Neuroinformatics, ex-FlixBus ML team lead. AI for concrete mix optimization and carbon reduction.",
-    "location": "Berlin, Germany",
-    "region": "EU/UK",
+    "raw_signal": "Got accepted into @fdotinc Canopy! Building the AI design platform for game developers. 17.8K+ users in one month since launch. Pre-seed.",
+    "location": "San Francisco, CA",
+    "region": "US",
     "sectors": [
-      "B2B SaaS",
       "AI & Interfaces"
     ],
-    "linkedin_url": "https://de.linkedin.com/in/robert-meyer-alcemy",
-    "company_website": "https://alcemy.tech",
-    "crunchbase_url": "https://www.crunchbase.com/person/robert-meyer-2d20",
+    "x_handle": "im_the_giulio",
+    "linkedin_url": "",
+    "company_website": "",
+    "crunchbase_url": "",
     "pitchbook_url": "",
-    "background_summary": "Robert Meyer holds a PhD in Neuroinformatics. Previously Data Scientist and ML team lead at FlixBus. Co-founder and CTO at alcemy, using AI to reduce cement/concrete carbon footprint."
+    "background_summary": "fdotinc Canopy participant. 17.8K+ users in first month for AI game design platform. Strong early traction signal."
   }
 ]

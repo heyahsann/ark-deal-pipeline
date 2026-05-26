@@ -494,5 +494,275 @@
       "traction": "Featured in GrepBeat (Aug 2025). NC IDEA grant recipient. Active website with pricing page. LinkedIn content engagement."
     },
     "whyInvest": "AI-native fundraising automation addresses a universal founder pain point in a large TAM — Charlotte's deep domain expertise in fundraising and SF location give her distribution advantage in the startup ecosystem."
+  },
+  {
+    "id": "unknown",
+    "company": "Unknown",
+    "tagline": "Building with Claude AI opens up exciting possibilities for creating powerful applications. Whether you're building text",
+    "description": "",
+    "stage": "Pre-seed",
+    "status": "Tracking",
+    "conviction": "Medium",
+    "category": [
+      "AI Agents"
+    ],
+    "location": "",
+    "founders": [
+      {
+        "name": "Unverified - needs manual check",
+        "role": "Founder & CEO"
+      }
+    ],
+    "website": "",
+    "linkedin": "https://www.linkedin.com/pulse/building-claude-ai-complete-guide-text-summarizers-image-kaushik-iyer-r9vqc",
+    "email": "",
+    "source": "ai-deal-sourcer pipeline (Unverified - needs manual check/Unknown, score: 8/10)",
+    "firstContact": "2026-05",
+    "nextAction": "Initial outreach drafted via pipeline",
+    "generalInfo": {
+      "isRaising": "Unknown"
+    },
+    "metrics": {},
+    "whyInvest": ""
+  },
+  {
+    "id": "instructor",
+    "company": "Instructor",
+    "tagline": "The secret behind your favorite AI company | @jxnlco 0:00 - Background of Jason Liu 1:45 - “If the Ox cannot plow…” what",
+    "description": "Instructor is an open-source Python library that simplifies structured data extraction from large language models (LLMs). It provides a clean, developer-friendly API for defining output schemas (e.g., Pydantic models) and automatically validates and retries LLM responses, making LLMs 'backwards compatible' with existing data pipelines. The AI-native angle lies in its core mission: treating LLMs as reliable, type-safe data sources rather than chat interfaces—critical for production AI systems.",
+    "stage": "Pre-seed",
+    "status": "Tracking",
+    "conviction": "Medium",
+    "category": [
+      "AI Agents"
+    ],
+    "location": "New York, NY",
+    "founders": [
+      {
+        "name": "Jason Liu",
+        "role": "Founder & CEO"
+      }
+    ],
+    "website": "https://twimlai.com/network/jason-liu",
+    "linkedin": "",
+    "email": "",
+    "source": "ai-deal-sourcer pipeline (Jason Liu/Instructor, score: 8/10)",
+    "firstContact": "2026-05",
+    "nextAction": "Initial outreach drafted via pipeline",
+    "generalInfo": {
+      "isRaising": "Unknown"
+    },
+    "metrics": {
+      "traction": "6M+ monthly downloads for Instructor (from GitHub profile). Strong community adoption evidenced by multiple podcasts, conference talks, and consulting engagements. Used by companies building production LLM systems.",
+      "healthIndicators": "6M+ monthly downloads; strong maintainer reputation in AI/ML community."
+    },
+    "whyInvest": "Instructor has strong defensibility through its core technical moat (solving a universal pain point in LLM structured output), first-mover advantage as the de facto standard for Python-based LLM data extraction, network effects from open-source community adoption (6M+ monthly downloads), and timing with the explosion of production LLM applications needing reliable schema enforcement."
+  },
+  {
+    "id": "musicfy",
+    "company": "Musicfy",
+    "tagline": "We're excited to officially welcome Musicfy to the family 🚀 They're building AI tools for audio generation. Drop a 👋 to ",
+    "description": "Musicfy is an AI-powered music generation platform that enables users to create songs using text-to-music, voice cloning, and other features. It allows users to transform their voices into those of iconic artists using AI. The platform is designed for artists, musicians, and content creators, providing tools for audio generation and stem separation.",
+    "stage": "Pre-seed",
+    "status": "Tracking",
+    "conviction": "Medium",
+    "category": [
+      "AI Agents"
+    ],
+    "location": "Unknown",
+    "founders": [
+      {
+        "name": "Arib Khan",
+        "role": "Founder & CEO"
+      }
+    ],
+    "website": "https://create.musicfy.lol/?ref=easywithai.ai",
+    "linkedin": "",
+    "email": "",
+    "source": "ai-deal-sourcer pipeline (Arib Khan/Musicfy, score: 8/10)",
+    "firstContact": "2026-05",
+    "nextAction": "Initial outreach drafted via pipeline",
+    "generalInfo": {
+      "isRaising": "Unknown"
+    },
+    "metrics": {
+      "traction": "Over 3 million users globally; reached $170K+ monthly revenue within three months of launch; achieved $1.5M valuation in 8 months.",
+      "revenue": "$170K+ monthly revenue",
+      "userGrowth": "1 million users in first 3 months",
+      "healthIndicators": "Rapid user adoption from 0 to 3 million users; strong revenue generation within first year."
+    },
+    "whyInvest": "Musicfy benefits from strong market timing with the explosion of AI music tools, a young and scrappy founder with a proven track record of rapid execution, and impressive traction with millions of users and significant early revenue."
+  },
+  {
+    "id": "tranzmit-ai",
+    "company": "Tranzmit AI",
+    "tagline": "We're Officially at Founders, Inc. - Building Tranzmit AI ... If you’re trying to: – turn customer conversations into st",
+    "description": "Tranzmit AI turns customer conversations into structured, decision-ready research, using AI-led interviewing to give product and research teams 10× leverage.",
+    "stage": "Pre-seed",
+    "status": "Tracking",
+    "conviction": "Medium",
+    "category": [
+      "AI Agents"
+    ],
+    "location": "",
+    "founders": [
+      {
+        "name": "Agaaz Singhal",
+        "role": "Founder & CEO"
+      }
+    ],
+    "website": "https://trazmit.com/",
+    "linkedin": "https://www.linkedin.com/in/agaaz-singhal",
+    "email": "",
+    "source": "ai-deal-sourcer pipeline (Agaaz Singhal/Tranzmit AI, score: 8/10)",
+    "firstContact": "2026-05",
+    "nextAction": "Initial outreach drafted via pipeline",
+    "generalInfo": {
+      "isRaising": "Unknown"
+    },
+    "metrics": {
+      "traction": "Part of Founders, Inc. incubator (announced in signal). GitHub SDK repos exist. LinkedIn profile indicates past award. No other public traction metrics found."
+    },
+    "whyInvest": "Tranzmit AI capitalizes on the surge in AI-native qualitative research tools, with early access to Founders, Inc. network and a founder with technical AI/ML expertise, positioning it to automate painful manual interviewing workflows."
+  },
+  {
+    "id": "minimal-ai",
+    "company": "Minimal AI",
+    "tagline": "Excited to share our $3.6M seed round for Minimal AI (YC S25 ... Every eCommerce brand has unique systems, processes and",
+    "description": "Minimal AI provides AI-powered customer support agents for e-commerce brands. Its platform allows businesses to build and manage AI agents that automate up to 90% of support tickets, handling tasks such as order inquiries, returns, and policy questions without requiring engineering resources. The company is Y Combinator (S25) backed.",
+    "stage": "Pre-seed",
+    "status": "Tracking",
+    "conviction": "Medium",
+    "category": [
+      "AI Agents"
+    ],
+    "location": "",
+    "founders": [
+      {
+        "name": "Niek Hogenboom",
+        "role": "Founder & CEO"
+      }
+    ],
+    "website": "https://www.welcome.ai/company/minimal-ai",
+    "linkedin": "https://www.linkedin.com/company/gominimal",
+    "email": "",
+    "source": "ai-deal-sourcer pipeline (Niek Hogenboom/Minimal AI, score: 8/10)",
+    "firstContact": "2026-05",
+    "nextAction": "Initial outreach drafted via pipeline",
+    "generalInfo": {
+      "isRaising": "Yes",
+      "raiseAmount": "$3.6M seed",
+      "raiseDetails": "Announced on LinkedIn (Niek Hogenboom) as a $3.6M seed round, YC S25 batch. Round closed August 2025."
+    },
+    "metrics": {
+      "traction": "Achieved rapid growth post‑pivot; 2,888 LinkedIn followers; YC S25 batch; secured press coverage (Ziptone) and multiple inbound expressions of interest from e-commerce brands."
+    },
+    "whyInvest": "Minimal AI’s no‑code, flexible AI agents give e‑commerce brands a defensible edge by eliminating engineering dependencies, and with YC backing and a seasoned founder who iterates fast, the timing captures the booming demand for AI‑native customer support automation."
+  },
+  {
+    "id": "sahay-ai",
+    "company": "Sahay AI",
+    "tagline": "Sahay AI raises pre-seed funding for AI-powered ... We’re super excited to share that we raised our $1.8M oversubscribed",
+    "description": "Sahay AI is a Philadelphia-based robotics and AI company that uses autonomous robots to inspect railway tracks, detecting defects and predicting maintenance needs to prevent derailments. Its AI-native solution integrates robots into daily operations for safer, more efficient rail inspections.",
+    "stage": "Pre-seed",
+    "status": "Tracking",
+    "conviction": "Medium",
+    "category": [
+      "AI Agents"
+    ],
+    "location": "Philadelphia, PA",
+    "founders": [
+      {
+        "name": "Tejas Agarwal",
+        "role": "Founder & CEO"
+      }
+    ],
+    "website": "https://pci.upenn.edu/penn-robotics-startup-sahay-ai-aims-to-make-railroads-safer/",
+    "linkedin": "https://www.linkedin.com/in/arjun-megharjun-nandakumar-493686a6",
+    "email": "",
+    "source": "ai-deal-sourcer pipeline (Tejas Agarwal/Sahay AI, score: 8/10)",
+    "firstContact": "2026-05",
+    "nextAction": "Initial outreach drafted via pipeline",
+    "generalInfo": {
+      "isRaising": "No",
+      "raiseAmount": "$1.8M pre-seed",
+      "raiseDetails": "Oversubscribed pre-seed round closed in May 2025",
+      "previousInvestors": [
+        "Mana Ventures",
+        "Blue Collective",
+        "Anorak Ventures",
+        "Unshackled Ventures"
+      ]
+    },
+    "metrics": {
+      "traction": "Raised a $1.8M oversubscribed pre-seed round in May 2025. Featured in multiple media outlets (Technical.ly, Philadelphia Today) and supported by Pennovation Works. Secured backing from notable investors."
+    },
+    "whyInvest": "Sahay AI's defensibility lies in its unique combination of robotics and AI for a critical infrastructure problem—rail safety—backed by a strong founding team, early investor validation, and a clear market need following high-profile derailments."
+  },
+  {
+    "id": "turboquant",
+    "company": "TurboQuant+",
+    "tagline": "@hthieblot TurboQuant+, Psychological intelligence for AI powered focus groups, metal kernel ...",
+    "description": "TurboQuant+ is an open-source implementation and extension of Google Research's TurboQuant KV-cache compression algorithm, developed by independent developer Tom Turney. It compresses AI working memory (KV cache) by 5x, enabling large language models that normally require enterprise hardware to run locally on consumer devices like MacBooks, with Apple Silicon GPU support. The project is built on top of llama.cpp and uses hand-written Metal kernels, achieving performance beyond the original paper's promises.",
+    "stage": "Pre-seed",
+    "status": "Tracking",
+    "conviction": "Medium",
+    "category": [
+      "AI Agents"
+    ],
+    "location": "",
+    "founders": [
+      {
+        "name": "Tom Turney",
+        "role": "Founder & CEO"
+      }
+    ],
+    "website": "https://www.chooseai.net/news/3123/",
+    "linkedin": "https://www.linkedin.com/posts/tturney_github-thetomturboquantplus-activity-7444759694570680320-4tJ3",
+    "email": "",
+    "source": "ai-deal-sourcer pipeline (Tom Turney/TurboQuant+, score: 7/10)",
+    "firstContact": "2026-05",
+    "nextAction": "Initial outreach drafted via pipeline",
+    "generalInfo": {
+      "isRaising": "Unknown"
+    },
+    "metrics": {
+      "traction": "The GitHub repository (turboquant_plus) has received significant community attention—demonstrated by coverage from multiple news outlets (ChooseAI, QQ News). On LinkedIn, Tom demonstrated running a 104B model locally on a MacBook with 128GB unified memory. Hugging Face hosts a collection of TurboQuant+ compressed models. The project has been cited as an early community implementation for TurboQuant experimentation, ahead of official framework merges."
+    },
+    "whyInvest": "TurboQuant+ has strong defensibility due to its scarce technical moat (only community reimplementation of Google's proprietary algorithm, with superior performance), extraordinary solo execution speed (7 days from paper to shipping product), huge market timing as local LLM inference demand surges, and viral traction signals from developers and media."
+  },
+  {
+    "id": "mecagent",
+    "company": "MecAgent",
+    "tagline": "MecAgent team is bringing AI to cad for actual mechanical engineers",
+    "description": "MecAgent is an AI copilot for mechanical CAD software, integrating directly into SolidWorks, CATIA, and other platforms. It automates low-value tasks such as 3D model generation, standards compliance, and real-time cost estimation, allowing mechanical engineers to focus on complex design challenges. The AI-native angle is converting natural language instructions into CAD actions, learning from previous parts to optimize and search designs.",
+    "stage": "Pre-seed",
+    "status": "Tracking",
+    "conviction": "Medium",
+    "category": [
+      "AI Agents"
+    ],
+    "location": "San Francisco, CA",
+    "founders": [
+      {
+        "name": "Owein Dourneau",
+        "role": "Founder & CEO"
+      }
+    ],
+    "website": "https://tracxn.com/d/companies/mecagent/__Q0bwlzhNVBM_NOTvGyJS_5W0gHPJDGFIM-pCv6_oE2s",
+    "linkedin": "https://www.linkedin.com/in/owein-dourneau-a7205017b",
+    "email": "",
+    "source": "ai-deal-sourcer pipeline (Owein Dourneau/MecAgent, score: 7/10)",
+    "firstContact": "2026-05",
+    "nextAction": "Initial outreach drafted via pipeline",
+    "generalInfo": {
+      "isRaising": "Unknown",
+      "raiseAmount": "$3M seed",
+      "raiseDetails": "Seed round closed on May 16, 2025"
+    },
+    "metrics": {
+      "traction": "Raised $3M seed funding. Free prototype version offered to early adopters for testing and feedback. Media coverage includes interviews on converting natural language to SolidWorks actions."
+    },
+    "whyInvest": "MecAgent's defensibility lies in its early-mover advantage as an AI-native CAD copilot for mechanical engineers, a technically underserved market, combined with a strong founding team and seed funding to iterate on a product that addresses real workflow pain points."
   }
 ]

@@ -1,0 +1,97 @@
+[
+  {
+    "founder_name": "Edoardo Maschio, Ahmed Gaber",
+    "company": "Diligent AI",
+    "score": 8,
+    "raw_signal": "AI agents for fintech KYC/AML compliance. YC-backed (W25). Raised $2.5M seed from Speedinvest and Shapers. Replaces manual sanctions/PEP screening with autonomous AI analysts.",
+    "location": "London, UK",
+    "region": "EU/UK",
+    "sectors": [
+      "AI Agents",
+      "Fintech"
+    ],
+    "x_handle": "",
+    "linkedin_url": "https://www.linkedin.com/company/godiligentai",
+    "founder_linkedin_url": "https://www.linkedin.com/in/edoardo-maschio-704",
+    "company_website": "https://godiligent.ai",
+    "crunchbase_url": "",
+    "pitchbook_url": "",
+    "background_summary": "Edoardo Maschio (ex-Rocket Internet, BCG) and Ahmed Gaber (ex-Billie VP Eng, Funding Circle) founded Diligent. Team includes Chris Leow (10yr ComplyAdvantage veteran). Building autonomous AI agents that read, reason and investigate for financial crime compliance. $2.5M seed from Speedinvest and Shapers. YC W25."
+  },
+  {
+    "founder_name": "Alexander Pomberger, Daniel Wigh",
+    "company": "ReactWise",
+    "score": 9,
+    "raw_signal": "AI copilot for chemical process development and drug manufacturing. YC S24, raised $3.4M pre-seed. Cambridge University spinout. Uses ML to accelerate pharmaceutical R&D.",
+    "location": "Cambridge, UK",
+    "region": "EU/UK",
+    "sectors": [
+      "Deep Tech",
+      "Health Tech"
+    ],
+    "x_handle": "ReactWise",
+    "linkedin_url": "https://www.linkedin.com/company/reactwise",
+    "founder_linkedin_url": "https://www.linkedin.com/in/daniel-wigh",
+    "company_website": "https://www.reactwise.com",
+    "crunchbase_url": "",
+    "pitchbook_url": "",
+    "background_summary": "Alexander Pomberger (CEO) and Daniel Wigh (CTO) — both Cambridge Chemical Engineering PhDs. ReactWise builds ML models that predict chemical reaction outcomes, reducing drug manufacturing R&D timelines. YC S24, $3.4M pre-seed. Featured in TechCrunch for AI-driven pharma innovation."
+  },
+  {
+    "founder_name": "Patrick Häde",
+    "company": "Superscale",
+    "score": 8,
+    "raw_signal": "AI marketing platform — paste a product URL, get a full campaign. Berlin-based. Raised $5M pre-seed from Creandum, Interface, s16vc. Described as 'Lovable for marketing'.",
+    "location": "Berlin, Germany",
+    "region": "EU/UK",
+    "sectors": [
+      "B2B SaaS",
+      "AI & Interfaces"
+    ],
+    "x_handle": "",
+    "linkedin_url": "",
+    "founder_linkedin_url": "https://www.linkedin.com/in/patrickhaede",
+    "company_website": "https://www.superscale.ai",
+    "crunchbase_url": "",
+    "pitchbook_url": "",
+    "background_summary": "Patrick Häde (CEO) founded Superscale — an AI platform that turns a product URL into a complete marketing campaign: brand messaging, creatives, and audience strategy. $5M pre-seed led by Creandum. Berlin-based. 0-to-1 GTM AI play."
+  },
+  {
+    "founder_name": "Nabil Toumi, Saad Bencherif",
+    "company": "Presti",
+    "score": 7,
+    "raw_signal": "AI-generated product visuals for the furniture industry. YC S24, raised $3.5M seed. 100+ paying B2B users, 10% WoW growth. Based in Paris. Optimized diffusion model for furniture.",
+    "location": "Paris, France",
+    "region": "EU/UK",
+    "sectors": [
+      "AI & Interfaces",
+      "B2B SaaS"
+    ],
+    "x_handle": "",
+    "linkedin_url": "https://www.linkedin.com/company/presti-ai",
+    "founder_linkedin_url": "https://www.linkedin.com/in/nabil-toumi-b58b0084",
+    "company_website": "https://www.presti.ai",
+    "crunchbase_url": "",
+    "pitchbook_url": "",
+    "background_summary": "Nabil Toumi (ex-Uber automation lead, Centrale Paris) and Saad Bencherif (ex-BCG X senior data scientist). Presti lets furniture companies create studio-quality product visuals with AI. $3.5M seed (YC S24). 100+ paying B2B customers with 10% weekly growth. Paris-based, team of 16."
+  },
+  {
+    "founder_name": "Nick Gospodinov",
+    "company": "Mandel AI",
+    "score": 8,
+    "raw_signal": "AI supply chain coordinator that plugs into email and ERP. YC-backed. Raised €3.6M seed. Sofia-based. Automates supplier communication and procurement for manufacturers.",
+    "location": "Sofia, Bulgaria",
+    "region": "EU/UK",
+    "sectors": [
+      "B2B SaaS",
+      "AI Agents"
+    ],
+    "x_handle": "mndl_ai",
+    "linkedin_url": "https://www.linkedin.com/company/mandel-ai",
+    "founder_linkedin_url": "https://www.linkedin.com/in/nick-gospodinov-457643187",
+    "company_website": "https://www.mandel.ai",
+    "crunchbase_url": "",
+    "pitchbook_url": "",
+    "background_summary": "Nick Gospodinov founded Mandel AI to build autonomous supply chain agents. Integrates with email and ERP to create a real-time source of truth for manufacturers. YC-backed, €3.6M seed from Category Ventures, Ritual Capital, e2vc. Based in Sofia, Bulgaria — a growing CEE tech hub."
+  }
+]
